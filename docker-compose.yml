@@ -1,0 +1,28 @@
+version: '2.4'
+
+services:
+  mongo:
+    image: "bitnami/mongodb:latest"
+    healthcheck:
+      test: ["CMD", "mongo", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
+      start_period: 60s
+    ports:
+      - "27018:27017"
+
+  server:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./src:/app/src:cached
+    env_file:
+      - .env
+    depends_on:
+      mongo:
+        condition: service_healthy
+    ports:
+      - 3000:3000
+

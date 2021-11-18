@@ -1,0 +1,1 @@
+export const LINKED_IN_SERVICE = 'LINKED_IN_SERVICE';

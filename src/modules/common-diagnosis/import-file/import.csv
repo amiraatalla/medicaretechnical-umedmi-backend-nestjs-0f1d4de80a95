@@ -1,0 +1,1420 @@
+ICD10.V11.,K02,Dentistry,Dental caries,62,42,38,65,206,103,,32%,,31%,,
+ICD10.V11.,K04.0,Dentistry,Pulpitis,13,5,9,8,34,17,,28%,,56%,,
+ICD10.V11.,K05.3,Dentistry,Chronic periodontitis,8,7,11,3,28,14,,,27%,40%,,
+ICD10.V11.,K04.7,Dentistry,Periapical abscess without sinus,11,2,4,9,26,13,,62%,,,,
+ICD10.V11.,K08.3,Dentistry,Retained dental root,7,6,6,6,24,12,,38%,,23%,,
+ICD10.V11.,K02.5,Dentistry,Caries with pulp exposure,9,2,3,8,22,11,,27%,27%,27%,,
+ICD10.V11.,K05.0,Dentistry,Acute gingivitis,5,5,0,10,20,10,,20%,20%,50%,,
+ICD10.V11.,K04,Dentistry,Diseases of pulp and periapical tissues,8,2,5,5,20,10,20%,40%,20%,20%,,
+ICD10.V11.,K05,Dentistry,Gingivitis and periodontal diseases,9,1,3,6,18,9,,,60%,20%,,
+ICD10.V11.,K05.4,Dentistry,Periodontosis,5,4,3,6,18,9,,,,44%,,
+ICD10.V11.,K02.1,Dentistry,Caries of dentine,3,4,2,5,14,7,,29%,29%,29%,,
+ICD10.V11.,K05.1,Dentistry,Chronic gingivitis,4,3,3,4,14,7,,,57%,29%,,
+ICD10.V11.,K01.1,Dentistry,Impacted teeth,3,0,0,3,6,3,,,33%,67%,,
+ICD10.V11.,K05.2,Dentistry,Acute periodontitis,0,2,1,1,4,2,,,50%,50%,,
+ICD10.V11.,K29.7,Dentistry,"Gastritis, unspecified",2,0,0,2,4,2,,,50%,50%,,
+ICD10.V11.,K06.1,Dentistry,Gingival enlargement,1,1,1,1,4,2,,,,50%,50%,
+ICD10.V11.,K05.6,Dentistry,"Periodontal disease, unspecified",1,1,2,0,4,2,,,,100%,,
+ICD10.V11.,L90,Dentistry,Atrophic disorders of skin,0,1,0,1,2,1,,,,,100%,
+ICD10.V11.,M94.0,Dentistry,Chondrocostal junction syndrome [Tietze],1,0,1,0,2,1,,,,100%,,
+ICD10.V11.,U87.1,Dentistry,"Chronic kidney disease, stage 3 to 5",1,0,0,1,2,1,,,100%,,,
+ICD10.V11.,K59.0,Dentistry,Constipation,1,0,0,1,2,1,,,,100%,,
+ICD10.V11.,K02.9,Dentistry,"Dental caries, unspecified",1,0,0,1,2,1,,100%,,,,
+ICD10.V11.,K00.6,Dentistry,Disturbances in tooth eruption,1,0,0,1,2,1,,100%,,,,
+ICD10.V11.,I10,Dentistry,Essential (primary) hypertension,1,0,1,0,2,1,,,,,,100%
+ICD10.V11.,E78.5,Dentistry,"Hyperlipidaemia, unspecified",1,0,1,0,2,1,,,,,100%,
+ICD10.V11.,U82.3,Dentistry,Hypertension,1,0,1,0,2,1,,,,,,100%
+ICD10.V11.,E03.9,Dentistry,"Hypothyroidism, unspecified",0,1,0,1,2,1,,,,100%,,
+ICD10.V11.,R22.1,Dentistry,"Localised swelling, mass and lump, neck",0,1,0,1,2,1,,,100%,,,
+ICD10.V11.,K07.4,Dentistry,"Malocclusion, unspecified",1,0,0,1,2,1,,100%,,,,
+ICD10.V11.,K04.1,Dentistry,Necrosis of pulp,1,0,0,1,2,1,,,,100%,,
+ICD10.V11.,K12.3,Dentistry,Oral mucositis (ulcerative),0,1,0,1,2,1,,,100%,0%,,
+ICD10.V11.,K04.9,Dentistry,Other and unspecified diseases of pulp and periapical tissues,1,0,0,1,2,1,,,,100%,,
+ICD10.V11.,K02.8,Dentistry,Other dental caries,1,0,0,1,2,1,,100%,,0%,,
+ICD10.V11.,K10,Dentistry,Other diseases of jaws,1,0,1,0,2,1,,,,100%,,
+ICD10.V11.,K05.5,Dentistry,Other periodontal diseases,1,0,1,0,2,1,,,,,100%,
+ICD10.V11.,K06.8,Dentistry,Other specified disorders of gingiva and edentulous alveolar ridge,1,0,0,1,2,1,,,,,100%,
+ICD10.V11.,K08.8,Dentistry,Other specified disorders of teeth and supporting structures,1,0,0,1,2,1,,,,100%,,
+ICD10.V11.,L70.0,Dermatology,Acne vulgaris,31,25,14,39,106,53,,,59%,34%,,
+ICD10.V11.,L23,Dermatology,Allergic contact dermatitis,24,11,4,31,70,35,,,,37%,,
+ICD10.V11.,L80,Dermatology,Vitiligo,16,10,9,17,52,26,,,31%,27%,,
+ICD10.V11.,L20,Dermatology,Atopic dermatitis,14,11,13,12,50,25,56%,32%,,,,
+ICD10.V11.,L65.0,Dermatology,Telogen effluvium,11,3,1,13,28,14,,,43%,57%,,
+ICD10.V11.,L50,Dermatology,Urticaria,7,5,6,5,22,11,,,33%,33%,33%,
+ICD10.V11.,L81.4,Dermatology,Other melanin hyperpigmentation,8,2,1,8,18,9,,,20%,70%,,
+ICD10.V11.,L22,Dermatology,Diaper [napkin] dermatitis,6,3,4,5,18,9,100%,,,,,
+ICD10.V11.,B07,Dermatology,Viral warts,8,1,4,5,18,9,,33%,44%,,,
+ICD10.V11.,L01,Dermatology,Impetigo,4,4,4,4,16,8,25%,25%,,,38%,
+ICD10.V11.,L21.0,Dermatology,Seborrhoea capitis,2,6,0,5,10,5,,25%,,38%,,
+ICD10.V11.,L63,Dermatology,Alopecia areata,3,4,3,4,14,7,,57%,,29%,,
+ICD10.V11.,L30.4,Dermatology,Erythema intertrigo,2,4,1,5,12,6,,,,,50%,
+ICD10.V11.,L40,Dermatology,Psoriasis,4,1,2,3,10,5,,20%,,60%,20%,
+ICD10.V11.,L64,Dermatology,Androgenic alopecia,3,1,1,3,8,4,,,25%,75%,,
+ICD10.V11.,B36.0,Dermatology,Pityriasis versicolor,3,1,1,3,8,4,,,75%,25%,,
+ICD10.V11.,L81.0,Dermatology,Postinflammatory hyperpigmentation,2,2,1,3,8,4,,,75%,25%,,
+ICD10.V11.,E03.9,Dermatology,"Hypothyroidism, unspecified",2,1,0,3,6,3,,,33%,67%,,
+ICD10.V11.,L70.8,Dermatology,Other acne,1,2,0,3,6,3,,,100%,,,
+ICD10.V11.,L21,Dermatology,Seborrhoeic dermatitis,1,2,1,2,6,3,,33%,67%,,,
+ICD10.V11.,E11,Dermatology,Type 2 diabetes mellitus,2,1,1,2,6,3,,,,,67%,33%
+ICD10.V11.,J45,Dermatology,Asthma,1,1,0,2,4,2,,,,100%,,
+ICD10.V11.,A49.9,Dermatology,"Bacterial infection, unspecified",2,0,1,1,4,2,,50%,,50%,,
+ICD10.V11.,B00.0,Dermatology,Eczema herpeticum,2,0,1,1,4,2,,50%,,50%,,
+ICD10.V11.,K29.7,Dermatology,"Gastritis, unspecified",1,1,0,2,4,2,,,,100%,,
+ICD10.V11.,B00,Dermatology,Herpesviral [herpes simplex] infections,2,0,1,1,4,2,,,,50%,50%,
+ICD10.V11.,K58,Dermatology,Irritable bowel syndrome,2,0,0,2,4,2,,,,50%,50%,
+ICD10.V11.,L24,Dermatology,Irritant contact dermatitis,2,0,0,2,4,2,,,50%,,50%,
+ICD10.V11.,L94.0,Dermatology,Localised scleroderma [morphea],1,1,0,2,4,2,,,,,100%,
+ICD10.V11.,B85.2,Dermatology,"Pediculosis, unspecified",2,0,0,2,4,2,,100%,,,,
+ICD10.V11.,L30.5,Dermatology,Pityriasis alba,1,1,0,2,4,2,100%,,,,,
+ICD10.V11.,L29,Dermatology,Pruritus,1,1,0,2,4,2,,,,,100%,
+ICD10.V11.,L73.1,Dermatology,Pseudofolliculitis barbae,1,1,2,0,4,2,,,100%,,,
+ICD10.V11.,B86,Dermatology,Scabies,1,1,2,0,4,2,,,0%,100%,,
+ICD10.V11.,B35.4,Dermatology,Tinea corporis,2,0,1,1,4,2,,,50%,50%,,
+ICD10.V11.,L83,Dermatology,Acanthosis nigricans,0,1,1,0,2,1,,,100%,0%,,
+ICD10.V11.,L70,Dermatology,Acne,1,0,1,0,2,1,,,0%,100%,,
+ICD10.V11.,L70.9,Dermatology,"Acne, unspecified",1,0,1,0,2,1,,,0%,100%,,
+ICD10.V11.,L23.3,Dermatology,Allergic contact dermatitis due to drugs in contact with skin,1,0,0,1,2,1,,,0%,100%,,
+ICD10.V11.,M61.34,Dermatology,"Calcification and ossification of muscles associated with burns, hand",1,0,0,1,2,1,,,100%,0%,,
+ICD10.V11.,B37.0,Dermatology,Candidal stomatitis,1,0,0,1,2,1,,,0%,100%,,
+ICD10.V11.,B37,Dermatology,Candidiasis,1,0,0,1,2,1,,,,,,100%
+ICD10.V11.,L98.4,Dermatology,"Chronic ulcer of skin, not elsewhere classified",0,1,0,1,2,1,,,,,,100%
+ICD10.V11.,H10,Dermatology,Conjunctivitis,0,1,0,1,2,1,,,,,100%,
+ICD10.V11.,L51,Dermatology,Erythema multiforme,1,0,1,0,2,1,,,,100%,,
+ICD10.V11.,L92.0,Dermatology,Granuloma annulare,1,0,0,1,2,1,100%,0%,,0%,,
+ICD10.V11.,N40,Dermatology,Hyperplasia of prostate,1,0,1,0,2,1,,,,0%,,100%
+ICD10.V11.,U82.3,Dermatology,Hypertension,1,0,1,0,2,1,,,,0%,,100%
+ICD10.V11.,N48.4,Dermatology,Impotence of organic origin,1,0,0,0,0,0,,,,100%,,
+ICD10.V11.,D50.9,Dermatology,"Iron deficiency anaemia, unspecified",1,0,0,1,2,1,,,,100%,,
+ICD10.V11.,R22.4,Dermatology,"Localised swelling, mass and lump, lower limb",0,1,0,1,2,1,,,,,100%,
+ICD10.V11.,D22,Dermatology,Melanocytic naevi,1,0,0,1,2,1,,,100%,,,
+ICD10.V11.,D22.1,Dermatology,"Melanocytic naevi of eyelid, including canthus",0,1,0,1,2,1,100%,,,,,
+ICD10.V11.,B08.1,Dermatology,Molluscum contagiosum,1,0,0,1,2,1,,,,100%,,
+ICD10.V11.,Q85.0,Dermatology,Neurofibromatosis (nonmalignant),1,0,1,0,2,1,,,,100%,,
+ICD10.V11.,R56.8,Dermatology,Other and unspecified convulsions,1,0,0,1,2,1,,,100%,0%,,
+ICD10.V11.,L28.2,Dermatology,Other prurigo,1,0,0,1,2,1,,,,100%,,
+ICD10.V11.,L40.8,Dermatology,Other psoriasis,1,0,0,1,2,1,,100%,,,,
+ICD10.V11.,M79.32,Dermatology,"Panniculitis, unspecified, upper arm",1,0,0,1,2,1,,0%,,,100%,
+ICD10.V11.,I47,Dermatology,Paroxysmal tachycardia,1,0,0,1,2,1,,0%,,,100%,
+ICD10.V11.,B85.0,Dermatology,Pediculosis due to Pediculus humanus capitis,0,1,0,1,2,1,,100%,,,,
+ICD10.V11.,L42,Dermatology,Pityriasis rosea,1,0,1,0,2,1,,100%,,,,
+ICD10.V11.,L28.1,Dermatology,Prurigo nodularis,1,0,0,1,2,1,,,,,,100%
+ICD10.V11.,L98.0,Dermatology,Pyogenic granuloma,0,1,0,1,2,1,,,,100%,,
+ICD10.V11.,Z10,Dermatology,Routine general health check-up of defined subpopulation,0,1,0,1,2,1,,,100%,,,
+ICD10.V11.,Z10.8,Dermatology,Routine general health check-up of other defined subpopulations,1,0,0,1,2,1,,,100%,,,
+ICD10.V11.,L90.6,Dermatology,Striae atrophicae,1,0,0,1,2,1,,,100%,,,
+ICD10.V11.,B35.0,Dermatology,Tinea barbae and tinea capitis,1,0,0,1,2,1,100%,,,,,
+ICD10.V11.,N76.6,Dermatology,Ulceration of vulva,0,1,0,1,2,1,,,,,,100%
+ICD10.V11.,L25,Dermatology,Unspecified contact dermatitis,1,0,0,1,2,1,,100%,,,,
+ICD10.V11.,L50.9,Dermatology,"Urticaria, unspecified",0,1,0,1,2,1,,,,100%,,
+ICD10.V11.,L85.3,Dermatology,Xerosis cutis,1,0,1,0,2,1,,,100%,0%,,
+ICD10.V11.,H61,"Ear, Nose & Throat",Other disorders of external ear,40,16,21,32,106,53,,,,32%,,
+ICD10.V11.,J30.3,"Ear, Nose & Throat",Other allergic rhinitis,25,17,22,20,84,42,,,21%,29%,,
+ICD10.V11.,R07.0,"Ear, Nose & Throat",Pain in throat,31,6,16,15,62,31,,,22%,35%,24%,
+ICD10.V11.,H93.1,"Ear, Nose & Throat",Tinnitus,19,5,9,14,46,23,,,,42%,21%,29%
+ICD10.V11.,H61.9,"Ear, Nose & Throat","Disorder of external ear, unspecified",14,8,4,18,44,22,,,,23%,27%,
+ICD10.V11.,R51,"Ear, Nose & Throat",Headache,12,2,1,13,28,14,,,29%,,43%,
+ICD10.V11.,J34,"Ear, Nose & Throat",Other disorders of nose and nasal sinuses,9,5,10,4,28,14,21%,,21%,36%,0%,
+ICD10.V11.,H61.8,"Ear, Nose & Throat",Other specified disorders of external ear,10,4,3,10,26,13,,,21%,57%,0%,
+ICD10.V11.,J34.2,"Ear, Nose & Throat",Deviated nasal septum,9,3,8,2,20,10,,,42%,17%,25%,
+ICD10.V11.,J33,"Ear, Nose & Throat",Nasal polyp,8,4,2,7,18,9,,,33%,25%,25%,
+ICD10.V11.,R04.0,"Ear, Nose & Throat",Epistaxis,8,2,2,4,12,6,,,40%,0%,50%,
+ICD10.V11.,R42,"Ear, Nose & Throat",Dizziness and giddiness,8,0,3,5,16,8,,,13%,63%,13%,
+ICD10.V11.,K07.6,"Ear, Nose & Throat",Temporomandibular joint disorders,5,3,0,8,16,8,,,38%,38%,25%,
+ICD10.V11.,H69,"Ear, Nose & Throat",Other disorders of Eustachian tube,5,1,4,1,10,5,,,33%,17%,33%,
+ICD10.V11.,H92.0,"Ear, Nose & Throat",Otalgia,5,0,1,4,10,5,,20%,40%,20%,20%,
+ICD10.V11.,H60,"Ear, Nose & Throat",Otitis externa,4,1,3,2,10,5,20%,20%,20%,20%,20%,
+ICD10.V11.,R43.0,"Ear, Nose & Throat",Anosmia,4,0,0,4,8,4,0%,0%,75%,25%,0%,
+ICD10.V11.,R05,"Ear, Nose & Throat",Cough,4,0,3,1,8,4,0%,25%,25%,0%,25%,25%
+ICD10.V11.,J30.2,"Ear, Nose & Throat",Other seasonal allergic rhinitis,3,1,1,3,8,4,25%,25%,50%,0%,0%,0%
+ICD10.V11.,H72,"Ear, Nose & Throat",Perforation of tympanic membrane,3,1,1,3,8,4,,,,50%,50%,0%
+ICD10.V11.,E11,"Ear, Nose & Throat",Type 2 diabetes mellitus,4,0,2,2,8,4,,,,0%,50%,50%
+ICD10.V11.,J02,"Ear, Nose & Throat",Acute pharyngitis,3,0,2,1,6,3,0%,33%,0%,67%,0%,0%
+ICD10.V11.,J01,"Ear, Nose & Throat",Acute sinusitis,3,0,2,1,6,3,,,33%,33%,0%,33%
+ICD10.V11.,J30.1,"Ear, Nose & Throat",Allergic rhinitis due to pollen,2,1,0,2,4,2,,,33%,67%,0%,0%
+ICD10.V11.,G51.0,"Ear, Nose & Throat",Bell's palsy,2,1,2,1,6,3,,,33%,67%,0%,0%
+ICD10.V11.,U82.3,"Ear, Nose & Throat",Hypertension,3,0,2,1,6,3,,,0%,0%,67%,33%
+ICD10.V11.,J35.2,"Ear, Nose & Throat",Hypertrophy of adenoids,1,2,2,0,4,2,67%,0%,0%,33%,0%,
+ICD10.V11.,J35.1,"Ear, Nose & Throat",Hypertrophy of tonsils,3,0,0,3,6,3,67%,33%,0%,0%,0%,
+ICD10.V11.,K58,"Ear, Nose & Throat",Irritable bowel syndrome,3,0,1,2,6,3,0%,0%,0%,100%,0%,
+ICD10.V11.,H65.4,"Ear, Nose & Throat",Other chronic nonsuppurative otitis media,2,1,0,3,6,3,33%,0%,33%,0%,33%,
+ICD10.V11.,H91,"Ear, Nose & Throat",Other hearing loss,1,2,0,3,6,3,0%,0%,,33%,33%,33%
+ICD10.V11.,H74.8,"Ear, Nose & Throat",Other specified disorders of middle ear and mastoid,2,1,1,2,6,3,0%,33%,,33%,33%,
+ICD10.V11.,R06.7,"Ear, Nose & Throat",Sneezing,2,1,1,2,6,3,33%,0%,,33%,33%,
+ICD10.V11.,G50.1,"Ear, Nose & Throat",Atypical facial pain,1,1,0,2,4,2,0%,0%,,0%,100%,
+ICD10.V11.,H65.3,"Ear, Nose & Throat",Chronic mucoid otitis media,2,0,0,2,4,2,0%,100%,,0%,,
+ICD10.V11.,J32,"Ear, Nose & Throat",Chronic sinusitis,1,1,1,0,2,1,0%,50%,50%,0%,,
+ICD10.V11.,H66.1,"Ear, Nose & Throat",Chronic tubotympanic suppurative otitis media,0,2,0,2,4,2,0%,50%,0%,50%,,
+ICD10.V11.,L02.1,"Ear, Nose & Throat","Cutaneous abscess, furuncle and carbuncle of neck",1,1,2,0,4,2,0%,100%,0%,0%,,
+ICD10.V11.,K11,"Ear, Nose & Throat",Diseases of salivary glands,2,0,0,2,4,2,0%,0%,50%,50%,,
+ICD10.V11.,I10,"Ear, Nose & Throat",Essential (primary) hypertension,2,0,1,1,4,2,0%,0%,0%,50%,,50%
+ICD10.V11.,J34.3,"Ear, Nose & Throat",Hypertrophy of nasal turbinates,1,1,1,1,4,2,50%,50%,0%,0%,,0%
+ICD10.V11.,H68.1,"Ear, Nose & Throat",Obstruction of Eustachian tube,2,0,2,0,4,2,0%,0%,50%,50%,,0%
+ICD10.V11.,R49.8,"Ear, Nose & Throat",Other and unspecified voice disturbances,2,0,1,1,4,2,0%,0%,50%,0%,,50%
+ICD10.V11.,G44,"Ear, Nose & Throat",Other headache syndromes,2,0,0,1,2,1,0%,0%,50%,0%,50%,
+ICD10.V11.,H93.8,"Ear, Nose & Throat",Other specified disorders of ear,0,2,0,1,2,1,0%,50%,0%,50%,,
+ICD10.V11.,J34.8,"Ear, Nose & Throat",Other specified disorders of nose and nasal sinuses,2,0,0,2,4,2,0%,0%,0%,100%,,
+ICD10.V11.,J30,"Ear, Nose & Throat",Vasomotor and allergic rhinitis,2,0,0,1,2,1,0%,100%,0%,0%,,
+ICD10.V11.,R49,"Ear, Nose & Throat",Voice disturbances,0,2,1,1,4,2,0%,0%,50%,50%,,
+ICD10.V11.,H60.0,"Ear, Nose & Throat",Abscess of external ear,0,1,1,0,2,1,0%,100%,0%,0%,,
+ICD10.V11.,J01.1,"Ear, Nose & Throat",Acute frontal sinusitis,1,0,1,0,2,1,0%,0%,0%,0%,100%,
+ICD10.V11.,J00,"Ear, Nose & Throat",Acute nasopharyngitis [common cold],1,0,0,1,2,1,0%,0%,100%,0%,0%,
+ICD10.V11.,J02.9,"Ear, Nose & Throat","Acute pharyngitis, unspecified",0,1,1,0,2,1,0%,100%,,0%,0%,
+ICD10.V11.,J01.9,"Ear, Nose & Throat","Acute sinusitis, unspecified",1,0,0,1,2,1,0%,0%,,0%,100%,
+ICD10.V11.,J03,"Ear, Nose & Throat",Acute tonsillitis,0,1,1,0,2,1,0%,0%,,0%,0%,100%
+ICD10.V11.,H81.1,"Ear, Nose & Throat",Benign paroxysmal vertigo,1,0,0,1,2,1,0%,0%,,100%,,
+ICD10.V11.,T28.0,"Ear, Nose & Throat",Burn of mouth and pharynx,1,0,1,0,2,1,0%,100%,,0%,,
+ICD10.V11.,T28.1,"Ear, Nose & Throat",Burn of oesophagus,1,0,1,0,2,1,0%,0%,,100%,,
+ICD10.V11.,G80,"Ear, Nose & Throat",Cerebral palsy,1,0,1,0,2,1,0%,0%,100%,0%,,
+ICD10.V11.,M94.0,"Ear, Nose & Throat",Chondrocostal junction syndrome [Tietze],1,0,1,0,2,1,0%,0%,,100%,,
+ICD10.V11.,H66.2,"Ear, Nose & Throat",Chronic atticoantral suppurative otitis media,0,1,0,1,2,1,0%,100%,,,,
+ICD10.V11.,J32.4,"Ear, Nose & Throat",Chronic pansinusitis,1,0,1,0,2,1,0%,100%,,,,
+ICD10.V11.,J31.0,"Ear, Nose & Throat",Chronic rhinitis,1,0,1,0,2,1,0%,100%,,,,
+ICD10.V11.,J35.0,"Ear, Nose & Throat",Chronic tonsillitis,1,0,0,1,2,1,100%,0%,,,,
+ICD10.V11.,H74.9,"Ear, Nose & Throat","Disorder of middle ear and mastoid, unspecified",1,0,0,1,2,1,0%,0%,,100%,,
+ICD10.V11.,H62,"Ear, Nose & Throat",Disorders of external ear in diseases classified elsewhere,0,1,0,1,2,1,0%,0%,,100%,,
+ICD10.V11.,K00,"Ear, Nose & Throat",Disorders of tooth development and eruption,1,0,0,0,0,0,0%,0%,,100%,,
+ICD10.V11.,K00.6,"Ear, Nose & Throat",Disturbances in tooth eruption,0,1,0,1,2,1,0%,100%,,0%,,
+ICD10.V11.,R68.2,"Ear, Nose & Throat","Dry mouth, unspecified",0,1,1,0,2,1,0%,100%,,0%,,
+ICD10.V11.,G40,"Ear, Nose & Throat",Epilepsy,1,0,0,1,2,1,,,,0%,0%,100%
+ICD10.V11.,G40.9,"Ear, Nose & Throat","Epilepsy, unspecified",1,0,1,0,2,1,,,,100%,,
+ICD10.V11.,K03.2,"Ear, Nose & Throat",Erosion of teeth,1,0,0,1,2,1,,,100%,0%,,
+ICD10.V11.,T20.1,"Ear, Nose & Throat",Erythema of head and neck,1,0,0,1,2,1,,,0%,100%,,
+ICD10.V11.,Z01.1,"Ear, Nose & Throat",Examination of ears and hearing,1,0,0,1,2,1,,,0%,100%,,
+ICD10.V11.,G51,"Ear, Nose & Throat",Facial nerve disorders,1,0,0,1,2,1,,,100%,0%,,
+ICD10.V11.,G82.0,"Ear, Nose & Throat",Flaccid paraplegia,1,0,1,0,2,1,,,100%,0%,,
+ICD10.V11.,T16,"Ear, Nose & Throat",Foreign body in ear,1,0,0,1,2,1,0%,100%,0%,0%,,
+ICD10.V11.,T17.1,"Ear, Nose & Throat",Foreign body in nostril,1,0,0,1,2,1,100%,0%,0%,0%,,
+ICD10.V11.,S02.2,"Ear, Nose & Throat",Fracture of nasal bones,1,0,1,0,2,1,0%,100%,0%,0%,,
+ICD10.V11.,S02.8,"Ear, Nose & Throat",Fractures of other skull and facial bones,1,0,1,0,2,1,0%,100%,0%,0%,,
+ICD10.V11.,K21,"Ear, Nose & Throat",Gastro-oesophageal reflux disease,1,0,1,0,2,1,0%,,,0%,100%,
+ICD10.V11.,Z00.0,"Ear, Nose & Throat",General medical examination,0,1,0,1,2,1,100%,,,0%,0%,
+ICD10.V11.,H91.9,"Ear, Nose & Throat","Hearing loss, unspecified",1,0,0,1,2,1,0%,,,0%,100%,
+ICD10.V11.,J35.3,"Ear, Nose & Throat",Hypertrophy of tonsils with hypertrophy of adenoids,1,0,1,0,2,1,100%,,,0%,,
+ICD10.V11.,E03.9,"Ear, Nose & Throat","Hypothyroidism, unspecified",1,0,0,1,2,1,,,,100%,,
+ICD10.V11.,E61.1,"Ear, Nose & Throat",Iron deficiency,1,0,0,1,2,1,,,,100%,,
+ICD10.V11.,Q87.4,"Ear, Nose & Throat",Marfan's syndrome,1,0,1,0,2,1,,,,100%,,
+ICD10.V11.,M79.28,"Ear, Nose & Throat","Neuralgia and neuritis, unspecified, other site",1,0,0,1,2,1,,,,100%,,
+ICD10.V11.,R10.4,"Ear, Nose & Throat",Other and unspecified abdominal pain,1,0,1,0,2,1,,0%,100%,0%,,
+ICD10.V11.,H66.3,"Ear, Nose & Throat",Other chronic suppurative otitis media,1,0,0,1,2,1,,100%,0%,0%,,
+ICD10.V11.,K09.2,"Ear, Nose & Throat",Other cysts of jaw,1,0,1,0,2,1,100%,,,0%,,
+ICD10.V11.,J39.2,"Ear, Nose & Throat",Other diseases of pharynx,1,0,1,0,2,1,0%,,,100%,,
+ICD10.V11.,H74,"Ear, Nose & Throat",Other disorders of middle ear and mastoid,0,1,1,0,2,1,0%,,,100%,,
+ICD10.V11.,L53,"Ear, Nose & Throat",Other erythematous conditions,1,0,0,1,2,1,0%,,,100%,,
+ICD10.V11.,Z00.8,"Ear, Nose & Throat",Other general examinations,0,1,0,1,2,1,100%,,,0%,,
+ICD10.V11.,E03,"Ear, Nose & Throat",Other hypothyroidism,0,1,0,1,2,1,,,,100%,,
+ICD10.V11.,H60.3,"Ear, Nose & Throat",Other infective otitis externa,1,0,1,0,2,1,,,,100%,,
+ICD10.V11.,H95.8,"Ear, Nose & Throat",Other intraoperative and postprocedural disorders of ear and mastoid process,1,0,1,0,2,1,,,100%,0%,,
+ICD10.V11.,H60.8,"Ear, Nose & Throat",Other otitis externa,1,0,0,1,2,1,,,0%,100%,,
+ICD10.V11.,H69.8,"Ear, Nose & Throat",Other specified disorders of Eustachian tube,1,0,0,1,2,1,,,100%,0%,,
+ICD10.V11.,H91.8,"Ear, Nose & Throat",Other specified hearing loss,0,1,1,0,2,1,,,0%,0%,,100%
+ICD10.V11.,S19.8,"Ear, Nose & Throat",Other specified injuries of neck,0,1,1,0,2,1,,,0%,0%,100%,0%
+ICD10.V11.,H60.9,"Ear, Nose & Throat","Otitis externa, unspecified",0,1,0,1,2,1,,,0%,0%,0%,100%
+ICD10.V11.,M25.5,"Ear, Nose & Throat",Pain in joint,1,0,0,1,2,1,,,100%,,,
+ICD10.V11.,R43.1,"Ear, Nose & Throat",Parosmia,1,0,0,1,2,1,100%,0%,0%,,,
+ICD10.V11.,H61.0,"Ear, Nose & Throat",Perichondritis of external ear,1,0,1,0,2,1,100%,0%,0%,,,
+ICD10.V11.,G71.9,"Ear, Nose & Throat","Primary disorder of muscle, unspecified",1,0,0,1,2,1,0%,100%,0%,,,
+ICD10.V11.,H90.3,"Ear, Nose & Throat","Sensorineural hearing loss, bilateral",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,H90.5,"Ear, Nose & Throat","Sensorineural hearing loss, unspecified",0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,K11.2,"Ear, Nose & Throat",Sialoadenitis,0,1,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,S13.6,"Ear, Nose & Throat",Sprain and strain of joints and ligaments of other and unspecified parts of neck,1,0,0,1,2,1,0%,100%,,,,
+ICD10.V11.,S00.40,"Ear, Nose & Throat","Superficial injury of ear, unspecified",0,1,1,0,2,1,100%,0%,,,,
+ICD10.V11.,H66,"Ear, Nose & Throat",Suppurative and unspecified otitis media,0,1,1,0,2,1,0%,100%,,,,
+ICD10.V11.,G50.0,"Ear, Nose & Throat",Trigeminal neuralgia,1,0,0,0,0,0,0%,0%,0%,100%,0%,0%
+ICD10.V11.,K29.7,Emergency Medicine,"Gastritis, unspecified",1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,B34.2 ,Emergency Medicine,Coronavirus Infection Unspecified Site,,,,,,,,,,,,
+ICD10.V11.,Z00,Employee Medicine,General examination and investigation of persons without complaint or reported diagnosis,1,0,0,1,2,1,,,,100%,,
+ICD10.V11.,M10.0,Employee Medicine,Idiopathic gout,1,0,1,0,2,1,,,,100%,,
+ICD10.V11.,K58,Employee Medicine,Irritable bowel syndrome,1,0,0,0,0,0,,,,100%,,
+ICD10.V11.,M54.5,Employee Medicine,Low back pain,1,0,0,0,0,0,,,,100%,,
+ICD10.V11.,Z10,Employee Medicine,Routine general health check-up of defined subpopulation,1,0,0,1,2,1,,,,100%,,
+ICD10.V11.,I15,Employee Medicine,Secondary hypertension,1,0,1,0,2,1,,,,100%,,
+ICD10.V11.,A23,General Pediatrics,Brucellosis,13,16,11,18,58,29,24%,76%,,,,
+ICD10.V11.,R10.4,General Pediatrics,Other and unspecified abdominal pain,16,7,6,17,46,23,43%,57%,,,,
+ICD10.V11.,D50,General Pediatrics,Iron deficiency anaemia,6,8,1,13,28,14,71%,29%,,,,
+ICD10.V11.,K59.0,General Pediatrics,Constipation,8,4,7,5,24,12,83%,17%,,,,
+ICD10.V11.,A23.9,General Pediatrics,"Brucellosis, unspecified",4,7,3,8,22,11,27%,73%,,,,
+ICD10.V11.,N39.0,General Pediatrics,"Urinary tract infection, site not specified",4,5,0,9,18,9,44%,56%,,,,
+ICD10.V11.,E55,General Pediatrics,Vitamin D deficiency,1,6,3,4,14,7,29%,71%,,,,
+ICD10.V11.,R63.4,General Pediatrics,Abnormal weight loss,3,3,2,4,12,6,17%,83%,,,,
+ICD10.V11.,K59.1,General Pediatrics,Functional diarrhoea,4,1,1,4,10,5,80%,20%,,,,
+ICD10.V11.,J21.9,General Pediatrics,"Acute bronchiolitis, unspecified",2,2,4,0,8,4,100%,0%,,,,
+ICD10.V11.,J00,General Pediatrics,Acute nasopharyngitis [common cold],4,0,1,3,8,4,100%,0%,,,,
+ICD10.V11.,J06.9,General Pediatrics,"Acute upper respiratory infection, unspecified",2,2,1,3,8,4,75%,25%,,,,
+ICD10.V11.,R62.0,General Pediatrics,Delayed milestone,2,2,2,2,8,4,100%,0%,,,,
+ICD10.V11.,A09.9,General Pediatrics,Gastroenteritis and colitis of unspecified origin,3,1,2,2,8,4,75%,25%,,,,
+ICD10.V11.,D50.9,General Pediatrics,"Iron deficiency anaemia, unspecified",1,3,2,2,8,4,75%,25%,,,,
+ICD10.V11.,R69,General Pediatrics,Unknown and unspecified causes of morbidity,3,1,2,2,8,4,25%,75%,,,,
+ICD10.V11.,R10,General Pediatrics,Abdominal and pelvic pain,1,2,1,2,6,3,0%,100%,,,,
+ICD10.V11.,R63.0,General Pediatrics,Anorexia,1,2,1,2,6,3,67%,33%,,,,
+ICD10.V11.,K21,General Pediatrics,Gastro-oesophageal reflux disease,2,1,3,0,6,3,100%,0%,,,,
+ICD10.V11.,R51,General Pediatrics,Headache,3,0,1,2,6,3,0%,100%,,,,
+ICD10.V11.,A23.8,General Pediatrics,Other brucellosis,0,3,1,2,6,3,0%,100%,,,,
+ICD10.V11.,K29.6,General Pediatrics,Other gastritis,1,2,1,2,6,3,0%,67%,33%,0%,0%,0%
+ICD10.V11.,M25.56,General Pediatrics,"Pain in a joint, lower leg",0,3,1,2,6,3,33%,67%,,,,
+ICD10.V11.,R52.9,General Pediatrics,"Pain, unspecified",2,1,0,3,6,3,67%,33%,,,,
+ICD10.V11.,E55.9,General Pediatrics,"Vitamin D deficiency, unspecified",2,1,1,2,6,3,67%,33%,,,,
+ICD10.V11.,R26,General Pediatrics,Abnormalities of gait and mobility,2,0,1,1,4,2,100%,0%,,,,
+ICD10.V11.,A06.0,General Pediatrics,Acute amoebic dysentery,0,2,0,2,4,2,50%,50%,,,,
+ICD10.V11.,J21,General Pediatrics,Acute bronchiolitis,2,0,2,0,4,2,100%,0%,,,,
+ICD10.V11.,J03,General Pediatrics,Acute tonsillitis,1,1,1,1,4,2,100%,0%,,,,
+ICD10.V11.,J45.9,General Pediatrics,"Asthma, unspecified",0,2,2,0,4,2,50%,50%,,,,
+ICD10.V11.,L20,General Pediatrics,Atopic dermatitis,1,1,0,2,4,2,0%,100%,,,,
+ICD10.V11.,N39.9,General Pediatrics,"Disorder of urinary system, unspecified",2,0,0,2,4,2,50%,50%,,,,
+ICD10.V11.,G40,General Pediatrics,Epilepsy,0,2,2,0,4,2,0%,100%,,,,
+ICD10.V11.,G40.9,General Pediatrics,"Epilepsy, unspecified",2,0,0,2,4,2,50%,50%,,,,
+ICD10.V11.,K29.7,General Pediatrics,"Gastritis, unspecified",2,0,1,1,4,2,50%,50%,,,,
+ICD10.V11.,Q74.15,General Pediatrics,Genu varum,1,1,1,1,4,2,100%,0%,,,,
+ICD10.V11.,B96.81,General Pediatrics,Helicobacter pylori [H. pylori] as the cause of diseases classified to other chapters,2,0,1,1,4,2,0%,100%,,,,
+ICD10.V11.,B76.9,General Pediatrics,"Hookworm disease, unspecified",1,1,1,1,4,2,50%,50%,,,,
+ICD10.V11.,E03.9,General Pediatrics,"Hypothyroidism, unspecified",1,1,1,1,4,2,0%,50%,0%,0%,50%,0%
+ICD10.V11.,R22.1,General Pediatrics,"Localised swelling, mass and lump, neck",1,1,0,2,4,2,50%,50%,0%,0%,0%,0%
+ICD10.V11.,B81.4,General Pediatrics,Mixed intestinal helminthiases,2,0,2,0,4,2,50%,50%,0%,0%,0%,0%
+ICD10.V11.,P59.9,General Pediatrics,"Neonatal jaundice, unspecified",1,1,0,2,4,2,50%,0%,0%,50%,0%,0%
+ICD10.V11.,Z03.5,General Pediatrics,Observation for other suspected cardiovascular diseases,2,0,0,2,4,2,0%,100%,,,,
+ICD10.V11.,R56.8,General Pediatrics,Other and unspecified convulsions,2,0,0,2,4,2,100%,0%,,,,
+ICD10.V11.,J39,General Pediatrics,Other diseases of upper respiratory tract,0,2,1,1,4,2,50%,50%,,,,
+ICD10.V11.,A09,General Pediatrics,Other gastroenteritis and colitis of infectious and unspecified origin,2,0,1,1,4,2,50%,50%,,,,
+ICD10.V11.,E03,General Pediatrics,Other hypothyroidism,1,1,1,1,4,2,50%,50%,,,,
+ICD10.V11.,M25.5,General Pediatrics,Pain in joint,1,1,1,1,4,2,50%,50%,,,,
+ICD10.V11.,E34.3,General Pediatrics,"Short stature, not elsewhere classified",0,2,2,0,4,2,50%,50%,,,,
+ICD10.V11.,Q66.00,General Pediatrics,"Talipes equinovarus, unspecified",0,2,0,2,4,2,100%,0%,,,,
+ICD10.V11.,R74,General Pediatrics,Abnormal serum enzyme levels,1,0,1,0,2,1,100%,0%,,,,
+ICD10.V11.,R63.5,General Pediatrics,Abnormal weight gain,1,0,0,1,2,1,100%,0%,,,,
+ICD10.V11.,R06,General Pediatrics,Abnormalities of breathing,1,0,1,0,2,1,100%,0%,,,,
+ICD10.V11.,R10.0,General Pediatrics,Acute abdomen,1,0,0,1,2,1,0%,100%,,,,
+ICD10.V11.,J02.8,General Pediatrics,Acute pharyngitis due to other specified organisms,0,1,1,0,2,1,100%,0%,,,,
+ICD10.V11.,J02.9,General Pediatrics,"Acute pharyngitis, unspecified",0,1,1,0,2,1,100%,0%,,,,
+ICD10.V11.,I01.9,General Pediatrics,"Acute rheumatic heart disease, unspecified",1,0,0,1,2,1,0%,100%,,,,
+ICD10.V11.,L23,General Pediatrics,Allergic contact dermatitis,0,1,0,1,2,1,0%,100%,,,,
+ICD10.V11.,T78.4,General Pediatrics,"Allergy, unspecified",1,0,0,1,2,1,100%,0%,,,,
+ICD10.V11.,J45,General Pediatrics,Asthma,1,0,1,0,2,1,0%,100%,,,,
+ICD10.V11.,L20.9,General Pediatrics,"Atopic dermatitis, unspecified",1,0,1,0,2,1,0%,100%,,,,
+ICD10.V11.,G51.0,General Pediatrics,Bell's palsy,1,0,0,0,0,0,100%,0%,,,,
+ICD10.V11.,R07.4,General Pediatrics,"Chest pain, unspecified",1,0,0,1,2,1,0%,100%,,,,
+ICD10.V11.,K60.1,General Pediatrics,Chronic anal fissure,1,0,0,1,2,1,0%,0%,100%,,,
+ICD10.V11.,K29.50,General Pediatrics,"Chronic gastritis, unspecified, without mention of haemorrhage",0,1,0,1,2,1,0%,100%,0%,,,
+ICD10.V11.,J35.0,General Pediatrics,Chronic tonsillitis,1,0,1,0,2,1,0%,100%,0%,,,
+ICD10.V11.,Q03,General Pediatrics,Congenital hydrocephalus,1,0,1,0,2,1,0%,100%,0%,,,
+ICD10.V11.,E03.1,General Pediatrics,Congenital hypothyroidism without goitre,1,0,1,0,2,1,100%,0%,0%,,,
+ICD10.V11.,Q31.5,General Pediatrics,Congenital laryngomalacia,1,0,0,1,2,1,100%,0%,0%,,,
+ICD10.V11.,Q20.9,General Pediatrics,"Congenital malformation of cardiac chambers and connections, unspecified",1,0,0,1,2,1,100%,0%,0%,,,
+ICD10.V11.,Q24.9,General Pediatrics,"Congenital malformation of heart, unspecified",1,0,1,0,2,1,0%,100%,0%,,,
+ICD10.V11.,Q38.30,General Pediatrics,"Congenital malformation of tongue, unspecified",0,1,1,0,2,1,100%,0%,0%,,,
+ICD10.V11.,Q33,General Pediatrics,Congenital malformations of lung,1,0,1,0,2,1,100%,0%,0%,,,
+ICD10.V11.,Q62.70,General Pediatrics,"Congenital vesico-uretero-renal reflux, unspecified",1,0,1,0,2,1,100%,0%,0%,,,
+ICD10.V11.,R05,General Pediatrics,Cough,1,0,1,0,2,1,0%,100%,0%,,,
+ICD10.V11.,G52.9,General Pediatrics,"Cranial nerve disorder, unspecified",1,0,0,0,0,0,100%,0%,0%,,,
+ICD10.V11.,L22,General Pediatrics,Diaper [napkin] dermatitis,0,1,0,1,2,1,100%,0%,0%,,,
+ICD10.V11.,S73.00,General Pediatrics,"Dislocation of hip, unspecified",1,0,1,0,2,1,100%,0%,0%,,,
+ICD10.V11.,F90.0,General Pediatrics,Disturbance of activity and attention,0,1,1,0,2,1,0%,100%,0%,,,
+ICD10.V11.,N94.6,General Pediatrics,"Dysmenorrhoea, unspecified",0,1,0,1,2,1,0%,100%,0%,,,
+ICD10.V11.,G51,General Pediatrics,Facial nerve disorders,1,0,1,0,2,1,0%,100%,0%,,,
+ICD10.V11.,R63.3,General Pediatrics,Feeding difficulties and mismanagement,0,1,1,0,2,1,100%,0%,0%,,,
+ICD10.V11.,F98.2,General Pediatrics,Feeding disorder of infancy and childhood,1,0,0,1,2,1,100%,0%,0%,,,
+ICD10.V11.,K41,General Pediatrics,Femoral hernia,1,0,0,1,2,1,100%,0%,0%,,,
+ICD10.V11.,M21.26,General Pediatrics,"Flexion deformity, lower leg",0,1,0,1,2,1,0%,100%,0%,,,
+ICD10.V11.,G40.3,General Pediatrics,Generalised idiopathic epilepsy and epileptic syndromes,1,0,1,0,2,1,0%,100%,0%,,,
+ICD10.V11.,Q74.14,General Pediatrics,Genu valgum,1,0,0,1,2,1,0%,100%,0%,,,
+ICD10.V11.,G40.61,General Pediatrics,"Grand mal seizures, unspecified (with or without petit mal), with intractable epilepsy",1,0,1,0,2,1,0%,100%,0%,,,
+ICD10.V11.,Z76.2,General Pediatrics,Health supervision and care of other infant and child,1,0,0,1,2,1,100%,0%,0%,,,
+ICD10.V11.,I51.9,General Pediatrics,"Heart disease, unspecified",1,0,1,0,2,1,100%,0%,0%,,,
+ICD10.V11.,B83.9,General Pediatrics,"Helminthiasis, unspecified",0,1,1,0,2,1,100%,0%,0%,,,
+ICD10.V11.,K52.3,General Pediatrics,Indeterminate colitis,1,0,1,0,2,1,100%,0%,0%,,,
+ICD10.V11.,L70.4,General Pediatrics,Infantile acne,1,0,1,0,2,1,100%,0%,0%,,,
+ICD10.V11.,K40,General Pediatrics,Inguinal hernia,1,0,1,0,2,1,100%,0%,0%,,,
+ICD10.V11.,K58.0,General Pediatrics,Irritable bowel syndrome with diarrhoea,0,1,1,0,2,1,100%,0%,0%,,,
+ICD10.V11.,R22,General Pediatrics,"Localised swelling, mass and lump of skin and subcutaneous tissue",1,0,0,1,2,1,100%,0%,0%,,,
+ICD10.V11.,M79.11,General Pediatrics,"Myalgia, shoulder region",0,1,1,0,2,1,0%,100%,0%,,,
+ICD10.V11.,P59,General Pediatrics,Neonatal jaundice from other and unspecified causes,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N04,General Pediatrics,Nephrotic syndrome,0,1,0,1,2,1,100%,,,,,
+ICD10.V11.,N04.9,General Pediatrics,"Nephrotic syndrome, unspecified",0,1,0,1,2,1,100%,,,,,
+ICD10.V11.,K52.9,General Pediatrics,"Noninfective gastroenteritis and colitis, unspecified",1,0,0,1,2,1,100%,,,,,
+ICD10.V11.,I88.9,General Pediatrics,"Nonspecific lymphadenitis, unspecified",1,0,1,0,2,1,100%,,,,,
+ICD10.V11.,R68.1,General Pediatrics,Nonspecific symptoms peculiar to infancy,1,0,0,0,0,0,100%,,,,,
+ICD10.V11.,D53.9,General Pediatrics,"Nutritional anaemia, unspecified",0,1,1,0,2,1,100%,,,,,
+ICD10.V11.,R60.9,General Pediatrics,"Oedema, unspecified",0,1,1,0,2,1,100%,,,,,
+ICD10.V11.,K12.3,General Pediatrics,Oral mucositis (ulcerative),1,0,0,1,2,1,100%,,,,,
+ICD10.V11.,K45,General Pediatrics,Other abdominal hernia,1,0,0,1,2,1,100%,,,,,
+ICD10.V11.,K29.1,General Pediatrics,Other acute gastritis,1,0,1,0,2,1,0%,100%,,,,
+ICD10.V11.,J30.3,General Pediatrics,Other allergic rhinitis,1,0,0,1,2,1,100%,0%,,,,
+ICD10.V11.,R82.9,General Pediatrics,Other and unspecified abnormal findings in urine,0,1,0,1,2,1,0%,100%,,,,
+ICD10.V11.,Q67.8,General Pediatrics,Other congenital deformities of chest,1,0,1,0,2,1,100%,0%,,,,
+ICD10.V11.,Q76.69,General Pediatrics,Other congenital malformation of ribs,0,1,1,0,2,1,0%,100%,,,,
+ICD10.V11.,Q76.6,General Pediatrics,Other congenital malformations of ribs,0,1,1,0,2,1,0%,100%,,,,
+ICD10.V11.,G40.8,General Pediatrics,Other epilepsy,1,0,0,1,2,1,0%,100%,,,,
+ICD10.V11.,A09.0,General Pediatrics,Other gastroenteritis and colitis of infectious origin,0,1,0,1,2,1,100%,0%,,,,
+ICD10.V11.,G44,General Pediatrics,Other headache syndromes,0,1,0,1,2,1,0%,100%,,,,
+ICD10.V11.,I42.2,General Pediatrics,Other hypertrophic cardiomyopathy,0,1,0,1,2,1,100%,0%,,,,
+ICD10.V11.,B88,General Pediatrics,Other infestations,0,1,0,1,2,1,100%,0%,,,,
+ICD10.V11.,P07.1,General Pediatrics,Other low birth weight,0,1,1,0,2,1,100%,0%,,,,
+ICD10.V11.,A41,General Pediatrics,Other sepsis,1,0,0,1,2,1,0%,100%,,,,
+ICD10.V11.,N39.8,General Pediatrics,Other specified disorders of urinary system,0,1,0,1,2,1,0%,100%,,,,
+ICD10.V11.,G44.8,General Pediatrics,Other specified headache syndromes,0,1,0,1,2,1,100%,0%,,,,
+ICD10.V11.,H66.9,General Pediatrics,"Otitis media, unspecified",1,0,1,0,2,1,100%,0%,,,,
+ICD10.V11.,M25.58,General Pediatrics,"Pain in a joint, other site",1,0,0,1,2,1,100%,0%,,,,
+ICD10.V11.,M25.59,General Pediatrics,"Pain in a joint, site unspecified",1,0,1,0,2,1,0%,100%,,,,
+ICD10.V11.,M79.66,General Pediatrics,"Pain in limb, lower leg",0,1,0,1,2,1,0%,100%,,,,
+ICD10.V11.,R07.0,General Pediatrics,Pain in throat,1,0,1,0,2,1,0%,100%,,,,
+ICD10.V11.,R07,General Pediatrics,Pain in throat and chest,1,0,1,0,2,1,0%,100%,,,,
+ICD10.V11.,R10.1,General Pediatrics,Pain localised to upper abdomen,1,0,0,1,2,1,0%,100%,,,,
+ICD10.V11.,M00,General Pediatrics,Pyogenic arthritis,1,0,1,0,2,1,0%,100%,,,,
+ICD10.V11.,R21,General Pediatrics,Rash and other nonspecific skin eruption,1,0,1,0,2,1,100%,0%,,,,
+ICD10.V11.,P92.1,General Pediatrics,Regurgitation and rumination in newborn,1,0,0,1,2,1,100%,0%,,,,
+ICD10.V11.,P22.9,General Pediatrics,"Respiratory distress of newborn, unspecified",1,0,0,1,2,1,100%,0%,,,,
+ICD10.V11.,Z41.2,General Pediatrics,Routine and ritual circumcision,0,1,1,0,2,1,100%,0%,,,,
+ICD10.V11.,Z10.8,General Pediatrics,Routine general health check-up of other defined subpopulations,0,1,1,0,2,1,0%,100%,,,,
+ICD10.V11.,D75.81,General Pediatrics,Secondary thrombocytosis,0,1,1,0,2,1,0%,100%,,,,
+ICD10.V11.,P05.9,General Pediatrics,"Slow fetal growth, unspecified",1,0,0,1,2,1,0%,100%,,,,
+ICD10.V11.,G80.03,General Pediatrics,Spastic quadriplegic cerebral palsy,0,1,0,1,2,1,0%,100%,,,,
+ICD10.V11.,F80,General Pediatrics,Specific developmental disorders of speech and language,1,0,0,1,2,1,0%,100%,,,,
+ICD10.V11.,R47,General Pediatrics,"Speech disturbances, not elsewhere classified",0,1,0,1,2,1,0%,100%,,,,
+ICD10.V11.,R16.1,General Pediatrics,"Splenomegaly, not elsewhere classified",1,0,1,0,2,1,100%,0%,,,,
+ICD10.V11.,K40.3,General Pediatrics,"Unilateral or unspecified inguinal hernia, with obstruction, without gangrene",1,0,1,0,2,1,100%,0%,,,,
+ICD10.V11.,R31,General Pediatrics,Unspecified haematuria,1,0,0,0,0,0,100%,0%,,,,
+ICD10.V11.,F09,General Pediatrics,Unspecified organic or symptomatic mental disorder,1,0,1,0,2,1,0%,100%,,,,
+ICD10.V11.,B89,General Pediatrics,Unspecified parasitic disease,0,1,0,1,2,1,0%,100%,,,,
+ICD10.V11.,J39.3,General Pediatrics,"Upper respiratory tract hypersensitivity reaction, site unspecified",1,0,1,0,2,1,0%,100%,,,,
+ICD10.V11.,B34.2 ,General Pediatrics,Coronavirus Infection Unspecified Site,,,,,,,,,,,,
+ICD10.V11.,N47,General Surgery,"Redundant prepuce, phimosis and paraphimosis",61,131,181,0,362,181,99%,1%,0%,0%,0%,0%
+ICD10.V11.,K60.1,General Surgery,Chronic anal fissure,13,12,7,14,42,21,4%,0%,28%,52%,16%,0%
+ICD10.V11.,R22.9,General Surgery,"Localised swelling, mass and lump, unspecified",14,8,14,8,44,22,9%,0%,55%,27%,0%,9%
+ICD10.V11.,R10.4,General Surgery,Other and unspecified abdominal pain,17,5,10,11,42,21,0%,0%,18%,50%,23%,9%
+ICD10.V11.,R10,General Surgery,Abdominal and pelvic pain,15,4,6,12,36,18,5%,5%,26%,32%,16%,16%
+ICD10.V11.,K60.0,General Surgery,Acute anal fissure,15,3,9,6,30,15,11%,6%,17%,67%,0%,0%
+ICD10.V11.,K81,General Surgery,Cholecystitis,10,8,5,11,32,16,0%,0%,0%,72%,22%,6%
+ICD10.V11.,K42,General Surgery,Umbilical hernia,4,11,4,11,30,15,33%,0%,7%,60%,0%,0%
+ICD10.V11.,R22.1,General Surgery,"Localised swelling, mass and lump, neck",6,7,5,8,26,13,,,23%,38%,15%,8%
+ICD10.V11.,R22,General Surgery,"Localised swelling, mass and lump of skin and subcutaneous tissue",10,2,6,6,24,12,,,8%,25%,25%,17%
+ICD10.V11.,R22.4,General Surgery,"Localised swelling, mass and lump, lower limb",5,6,5,6,22,11,,,0%,36%,36%,27%
+ICD10.V11.,K40,General Surgery,Inguinal hernia,5,4,9,0,18,9,44%,,22%,22%,11%,
+ICD10.V11.,K43,General Surgery,Ventral hernia,5,4,1,8,18,9,,,0%,44%,44%,
+ICD10.V11.,N23,General Surgery,Unspecified renal colic,7,0,1,6,14,7,,,29%,57%,0%,
+ICD10.V11.,K61.0,General Surgery,Anal abscess,5,1,2,4,12,6,,,0%,50%,50%,
+ICD10.V11.,D24,General Surgery,Benign neoplasm of breast,4,2,0,6,12,6,,,50%,33%,0%,
+ICD10.V11.,E03.9,General Surgery,"Hypothyroidism, unspecified",4,2,2,4,12,6,,,0%,83%,17%,
+ICD10.V11.,I83,General Surgery,Varicose veins of lower extremities,5,1,1,5,12,6,,,0%,33%,67%,
+ICD10.V11.,K60.3,General Surgery,Anal fistula,4,1,4,0,8,4,,,20%,80%,0%,
+ICD10.V11.,R59,General Surgery,Enlarged lymph nodes,4,1,2,3,10,5,,20%,40%,20%,0%,20%
+ICD10.V11.,U82.3,General Surgery,Hypertension,4,1,1,4,10,5,,0%,0%,40%,20%,40%
+ICD10.V11.,K40.9,General Surgery,"Unilateral or unspecified inguinal hernia, without obstruction or gangrene",4,1,4,1,10,5,60%,20%,0%,20%,0%,
+ICD10.V11.,K59.4,General Surgery,Anal spasm,3,1,4,0,8,4,0%,25%,0%,25%,50%,
+ICD10.V11.,K81.1,General Surgery,Chronic cholecystitis,2,2,1,3,8,4,0%,0%,25%,50%,25%,
+ICD10.V11.,R22.2,General Surgery,"Localised swelling, mass and lump, trunk",2,2,3,1,8,4,25%,25%,0%,0%,50%,
+ICD10.V11.,R22.3,General Surgery,"Localised swelling, mass and lump, upper limb",4,0,2,2,8,4,50%,0%,50%,0%,0%,
+ICD10.V11.,N39.81,General Surgery,Loin pain/haematuria syndrome,3,1,0,4,8,4,0%,25%,25%,50%,0%,
+ICD10.V11.,M60,General Surgery,Myositis,3,1,1,3,8,4,0%,0%,50%,25%,25%,
+ICD10.V11.,R52.9,General Surgery,"Pain, unspecified",4,0,2,2,8,4,0%,0%,50%,0%,50%,
+ICD10.V11.,Z41.2,General Surgery,Routine and ritual circumcision,0,4,4,0,8,4,100%,0%,0%,0%,0%,
+ICD10.V11.,K64.2,General Surgery,Third degree haemorrhoids,2,2,4,0,8,4,0%,0%,25%,50%,25%,
+ICD10.V11.,K60.2,General Surgery,"Anal fissure, unspecified",1,2,2,1,6,3,33%,0%,0%,33%,33%,
+ICD10.V11.,K80.1,General Surgery,Calculus of gallbladder with other cholecystitis,3,0,1,1,4,2,0%,0%,0%,100%,0%,
+ICD10.V11.,L02.3,General Surgery,"Cutaneous abscess, furuncle and carbuncle of buttock",1,2,3,0,6,3,0%,0%,33%,0%,67%,
+ICD10.V11.,L60.0,General Surgery,Ingrowing nail,0,3,3,0,6,3,0%,100%,0%,0%,0%,
+ICD10.V11.,R22.0,General Surgery,"Localised swelling, mass and lump, head",3,0,3,0,6,3,0%,33%,0%,33%,33%,
+ICD10.V11.,K64.1,General Surgery,Second degree haemorrhoids,3,0,2,1,6,3,,,33%,33%,33%,
+ICD10.V11.,N63,General Surgery,Unspecified lump in breast,2,1,0,3,6,3,,,0%,0%,100%,
+ICD10.V11.,L73.0,General Surgery,Acne keloid,1,1,0,2,4,2,,,100%,0%,0%,
+ICD10.V11.,D17,General Surgery,Benign lipomatous neoplasm,1,1,2,0,4,2,,,0%,100%,0%,
+ICD10.V11.,K80.20,General Surgery,"Calculus of gallbladder without cholecystitis, without mention of obstruction",1,1,0,2,4,2,,,0%,0%,100%,
+ICD10.V11.,K81.9,General Surgery,"Cholecystitis, unspecified",2,0,1,1,4,2,,,0%,50%,50%,
+ICD10.V11.,L02,General Surgery,"Cutaneous abscess, furuncle and carbuncle",1,1,1,1,4,2,,,0%,100%,0%,
+ICD10.V11.,E07.9,General Surgery,"Disorder of thyroid, unspecified",1,1,0,2,4,2,,,100%,0%,0%,
+ICD10.V11.,R30.0,General Surgery,Dysuria,2,0,2,0,4,2,,,50%,0%,0%,50%
+ICD10.V11.,K60,General Surgery,Fissure and fistula of anal and rectal regions,0,2,0,0,0,0,,,0%,100%,0%,0%
+ICD10.V11.,K64.3,General Surgery,Fourth degree haemorrhoids,2,0,2,0,4,2,,,0%,50%,50%,0%
+ICD10.V11.,K29.7,General Surgery,"Gastritis, unspecified",2,0,0,1,2,1,,,0%,50%,50%,0%
+ICD10.V11.,K62.5,General Surgery,Haemorrhage of anus and rectum,2,0,2,0,4,2,,,0%,0%,50%,50%
+ICD10.V11.,K64,General Surgery,Haemorrhoids and perianal venous thrombosis,1,1,2,0,4,2,,,0%,50%,50%,0%
+ICD10.V11.,N62,General Surgery,Hypertrophy of breast,1,1,2,0,4,2,,,0%,100%,0%,0%
+ICD10.V11.,D48.6,General Surgery,Neoplasm of uncertain or unknown behaviour of breast,2,0,0,2,4,2,,,0%,50%,50%,0%
+ICD10.V11.,I88,General Surgery,Nonspecific lymphadenitis,2,0,1,0,2,1,,,0%,100%,0%,0%
+ICD10.V11.,S31.1,General Surgery,Open wound of abdominal wall,0,2,1,1,4,2,,,50%,50%,0%,0%
+ICD10.V11.,S71.1,General Surgery,Open wound of thigh,1,1,1,1,4,2,,,100%,0%,0%,0%
+ICD10.V11.,K64.8,General Surgery,Other specified haemorrhoids,1,1,2,0,4,2,,,0%,50%,50%,0%
+ICD10.V11.,M79.66,General Surgery,"Pain in limb, lower leg",2,0,1,1,4,2,,,0%,0%,0%,100%
+ICD10.V11.,L05.0,General Surgery,Pilonidal cyst with abscess,1,1,2,0,4,2,,,100%,0%,,
+ICD10.V11.,B07,General Surgery,Viral warts,2,0,2,0,4,2,0%,50%,50%,0%,,
+ICD10.V11.,T13.01,General Surgery,"Abrasion of lower limb, level unspecified",1,0,1,0,2,1,0%,0%,100%,0%,,
+ICD10.V11.,Q83.1,General Surgery,Accessory breast,0,1,0,1,2,1,0%,0%,100%,0%,,
+ICD10.V11.,K35,General Surgery,Acute appendicitis,0,1,1,0,2,1,0%,0%,0%,100%,,
+ICD10.V11.,N30.0,General Surgery,Acute cystitis,1,0,0,1,2,1,0%,0%,100%,0%,,
+ICD10.V11.,Q38.1,General Surgery,Ankyloglossia,1,0,1,0,2,1,100%,0%,0%,0%,,
+ICD10.V11.,K60.5,General Surgery,Anorectal fistula,0,1,1,0,2,1,,,0%,100%,,
+ICD10.V11.,G50.1,General Surgery,Atypical facial pain,1,0,1,0,2,1,,,100%,0%,,
+ICD10.V11.,G51.0,General Surgery,Bell's palsy,1,0,0,1,2,1,,,0%,0%,100%,
+ICD10.V11.,D17.1,General Surgery,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,0,1,1,0,2,1,,,0%,0%,100%,
+ICD10.V11.,D17.9,General Surgery,"Benign lipomatous neoplasm, unspecified",0,1,0,1,2,1,,,0%,0%,100%,
+ICD10.V11.,D36.0,General Surgery,Benign neoplasm of lymph nodes,1,0,1,0,2,1,,,100%,0%,0%,
+ICD10.V11.,D29.1,General Surgery,Benign neoplasm of prostate,1,0,1,0,2,1,,,,0%,100%,
+ICD10.V11.,D34,General Surgery,Benign neoplasm of thyroid gland,1,0,0,1,2,1,,,,0%,100%,
+ICD10.V11.,T21.02,General Surgery,Burn of unspecified thickness of chest wall,1,0,0,1,2,1,,,,100%,0%,
+ICD10.V11.,L03,General Surgery,Cellulitis,0,1,1,0,2,1,100%,0%,,0%,0%,
+ICD10.V11.,K12.2,General Surgery,Cellulitis and abscess of mouth,0,1,1,0,2,1,0%,0%,,100%,0%,
+ICD10.V11.,L03.01,General Surgery,Cellulitis of finger,1,0,0,1,2,1,0%,0%,,100%,0%,
+ICD10.V11.,L03.1,General Surgery,Cellulitis of other parts of limb,1,0,1,0,2,1,0%,0%,,0%,0%,100%
+ICD10.V11.,K80,General Surgery,Cholelithiasis,0,1,0,1,2,1,0%,0%,,0%,0%,100%
+ICD10.V11.,J35,General Surgery,Chronic diseases of tonsils and adenoids,1,0,0,1,2,1,0%,100%,,0%,0%,
+ICD10.V11.,Q55.20,General Surgery,"Congenital malformation of testis and scrotum, unspecified",1,0,1,0,2,1,100%,0%,,0%,0%,
+ICD10.V11.,K59.0,General Surgery,Constipation,1,0,0,1,2,1,0%,0%,,100%,0%,
+ICD10.V11.,L02.8,General Surgery,"Cutaneous abscess, furuncle and carbuncle of other sites",1,0,1,0,2,1,0%,0%,,100%,0%,
+ICD10.V11.,L02.2,General Surgery,"Cutaneous abscess, furuncle and carbuncle of trunk",1,0,1,0,2,1,0%,0%,,100%,0%,
+ICD10.V11.,N30,General Surgery,Cystitis,1,0,1,0,2,1,0%,0%,100%,0%,0%,
+ICD10.V11.,K14.9,General Surgery,"Disease of tongue, unspecified",1,0,1,0,2,1,100%,0%,0%,0%,0%,
+ICD10.V11.,K14,General Surgery,Diseases of tongue,0,1,1,0,2,1,100%,0%,0%,0%,0%,
+ICD10.V11.,N64.9,General Surgery,"Disorder of breast, unspecified",1,0,0,1,2,1,,,0%,100%,0%,
+ICD10.V11.,N51.1,General Surgery,Disorders of testis and epididymis in diseases classified elsewhere,1,0,1,0,2,1,,,100%,0%,0%,
+ICD10.V11.,R13,General Surgery,Dysphagia,1,0,1,0,2,1,,,0%,100%,0%,
+ICD10.V11.,K64.0,General Surgery,First degree haemorrhoids,1,0,0,0,0,0,,,0%,100%,0%,
+ICD10.V11.,M67.44,General Surgery,"Ganglion, hand",1,0,0,1,2,1,,,100%,0%,0%,
+ICD10.V11.,K64.9,General Surgery,"Haemorrhoids, unspecified",1,0,0,1,2,1,,,0%,0%,0%,100%
+ICD10.V11.,R12,General Surgery,Heartburn,0,1,0,1,2,1,,,0%,0%,100%,0%
+ICD10.V11.,N43.3,General Surgery,"Hydrocele, unspecified",1,0,1,0,2,1,,,0%,0%,100%,0%
+ICD10.V11.,G91.9,General Surgery,"Hydrocephalus, unspecified",1,0,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,E78.5,General Surgery,"Hyperlipidaemia, unspecified",1,0,0,1,2,1,,,0%,0%,0%,100%
+ICD10.V11.,E22.1,General Surgery,Hyperprolactinaemia,1,0,0,1,2,1,,,100%,0%,0%,0%
+ICD10.V11.,O86.0,General Surgery,Infection of obstetric surgical wound,0,1,0,1,2,1,,,0%,100%,0%,0%
+ICD10.V11.,D50,General Surgery,Iron deficiency anaemia,1,0,0,1,2,1,,,0%,100%,0%,0%
+ICD10.V11.,K58,General Surgery,Irritable bowel syndrome,1,0,1,0,2,1,,,0%,0%,100%,0%
+ICD10.V11.,R59.0,General Surgery,Localised enlarged lymph nodes,1,0,0,1,2,1,,,0%,100%,0%,0%
+ICD10.V11.,M54.5,General Surgery,Low back pain,1,0,0,1,2,1,,,0%,100%,0%,0%
+ICD10.V11.,I89.1,General Surgery,Lymphangitis,0,1,1,0,2,1,,,0%,100%,0%,0%
+ICD10.V11.,C50,General Surgery,Malignant neoplasm of breast,1,0,0,1,2,1,,,0%,0%,100%,0%
+ICD10.V11.,A66.1,General Surgery,Multiple papillomata and wet crab yaws,0,1,1,0,2,1,,,0%,100%,0%,0%
+ICD10.V11.,L60,General Surgery,Nail disorders,1,0,0,1,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,D44.0,General Surgery,Neoplasm of uncertain or unknown behaviour of thyroid gland,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,O91.2,General Surgery,Nonpurulent mastitis associated with childbirth,1,0,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,S01.31,General Surgery,Open wound of auricle,1,0,0,0,0,0,0%,0%,0%,0%,100%,0%
+ICD10.V11.,S61.0,General Surgery,Open wound of finger(s) without damage to nail,1,0,0,1,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,S01,General Surgery,Open wound of head,1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,S11,General Surgery,Open wound of neck,1,0,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,S01.8,General Surgery,Open wound of other parts of head,1,0,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,S61,General Surgery,Open wound of wrist and hand,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,N45,General Surgery,Orchitis and epididymitis,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,K45,General Surgery,Other abdominal hernia,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,D23.0,General Surgery,Other benign neoplasms of skin of lip,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,R07.3,General Surgery,Other chest pain,1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,E06.5,General Surgery,Other chronic thyroiditis,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N64,General Surgery,Other disorders of breast,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,H02,General Surgery,Other disorders of eyelid,0,1,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,G51.8,General Surgery,Other disorders of facial nerve,1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,E07,General Surgery,Other disorders of thyroid,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,A66.2,General Surgery,Other early skin lesions of yaws,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,L92.8,General Surgery,Other granulomatous disorders of skin and subcutaneous tissue,0,1,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,E03,General Surgery,Other hypothyroidism,0,1,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E04,General Surgery,Other nontoxic goitre,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N64.5,General Surgery,Other signs and symptoms in breast,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E13.73,General Surgery,Other specified diabetes mellitus with foot ulcer due to multiple causes,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,M25.5,General Surgery,Pain in joint,0,1,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,B97.7,General Surgery,Papillomavirus as the cause of diseases classified to other chapters,0,1,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,L29.0,General Surgery,Pruritus ani,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,K62.1,General Surgery,Rectal polyp,0,1,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,M79.5,General Surgery,Residual foreign body in soft tissue,1,0,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,M79.57,General Surgery,"Residual foreign body in soft tissue, ankle and foot",1,0,0,0,0,0,0%,0%,0%,0%,100%,0%
+ICD10.V11.,Q55.21,General Surgery,Retractile testis,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,L90.5,General Surgery,Scar conditions and fibrosis of skin,0,1,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,L90.51,General Surgery,Scar conditions and fibrosis of skin due to burn,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,S80.84,General Surgery,Superficial foreign body (splinter) of lower leg,1,0,0,0,0,0,0%,0%,0%,100%,0%,0%
+ICD10.V11.,S00.05,General Surgery,"Superficial injury of scalp, contusion",1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,E06,General Surgery,Thyroiditis,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E06.9,General Surgery,"Thyroiditis, unspecified",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,S68.1,General Surgery,Traumatic amputation of other single finger (complete)(partial),0,1,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,S98.2,General Surgery,Traumatic amputation of two or more toes,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,E11,General Surgery,Type 2 diabetes mellitus,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,K42.9,General Surgery,Umbilical hernia without obstruction or gangrene,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,Q53,General Surgery,Undescended testicle,1,0,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,K40.3,General Surgery,"Unilateral or unspecified inguinal hernia, with obstruction, without gangrene",0,1,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,K37,General Surgery,Unspecified appendicitis,1,0,0,1,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,R17,General Surgery,Unspecified jaundice,0,1,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N39.0,General Surgery,"Urinary tract infection, site not specified",1,0,0,1,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,I87.2,General Surgery,Venous insufficiency (chronic)(peripheral),1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,E55.9,General Surgery,"Vitamin D deficiency, unspecified",1,0,0,1,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,T81.4,General Surgery,"Wound infection following a procedure, not elsewhere classified",0,1,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N18.5,Nephrology,"Chronic kidney disease, stage 5",42,2058,1247,853,4200,2100,0%,0%,6%,26%,29%,38%
+ICD10.V11.,U87.1,Nephrology,"Chronic kidney disease, stage 3 to 5",1,63,0,64,128,64,0%,0%,100%,0%,0%,0%
+ICD10.V11.,E11,Nephrology,Type 2 diabetes mellitus,0,55,55,0,110,55,0%,0%,0%,0%,0%,100%
+ICD10.V11.,Q61.2,Nephrology,"Polycystic kidney, autosomal dominant",0,51,0,51,102,51,0%,0%,0%,0%,100%,0%
+ICD10.V11.,Z94.0,Nephrology,Kidney transplant status,1,2,0,3,6,3,0%,0%,0%,0%,0%,100%
+ICD10.V11.,J81,Nephrology,Pulmonary oedema,0,2,2,0,4,2,0%,0%,0%,0%,50%,50%
+ICD10.V11.,N97,Nephrology,Female infertility,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I12,Nephrology,Hypertensive kidney disease,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I15,Home Healthcare,Secondary hypertension,0,1,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,E11,Home Healthcare,Type 2 diabetes mellitus,0,1,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,E11,Internal Medicine,Type 2 diabetes mellitus,210,290,177,319,992,496,1%,0%,0%,21%,50%,27%
+ICD10.V11.,K58,Internal Medicine,Irritable bowel syndrome,157,179,65,268,666,333,3%,1%,13%,41%,32%,10%
+ICD10.V11.,I10,Internal Medicine,Essential (primary) hypertension,115,142,101,151,504,252,1%,0%,0%,14%,48%,37%
+ICD10.V11.,E03.9,Internal Medicine,"Hypothyroidism, unspecified",91,165,8,248,512,256,1%,0%,7%,55%,31%,7%
+ICD10.V11.,U82.3,Internal Medicine,Hypertension,84,164,98,149,494,247,0%,0%,0%,13%,50%,37%
+ICD10.V11.,E78.5,Internal Medicine,"Hyperlipidaemia, unspecified",51,75,28,98,252,126,0%,0%,1%,28%,56%,15%
+ICD10.V11.,K29.7,Internal Medicine,"Gastritis, unspecified",60,58,16,101,234,117,1%,1%,27%,41%,24%,7%
+ICD10.V11.,E78.4,Internal Medicine,Other hyperlipidaemia,28,66,24,70,188,94,1%,1%,0%,21%,56%,20%
+ICD10.V11.,E03,Internal Medicine,Other hypothyroidism,20,65,3,82,170,85,0%,0%,7%,47%,39%,7%
+ICD10.V11.,Z10.8,Internal Medicine,Routine general health check-up of other defined subpopulations,46,26,5,67,144,72,0%,4%,26%,40%,26%,3%
+ICD10.V11.,E55,Internal Medicine,Vitamin D deficiency,24,30,9,44,106,53,0%,2%,20%,43%,30%,6%
+ICD10.V11.,R10.4,Internal Medicine,Other and unspecified abdominal pain,22,22,17,27,88,44,0%,0%,25%,30%,32%,14%
+ICD10.V11.,G40,Internal Medicine,Epilepsy,11,25,16,20,72,36,0%,8%,17%,39%,22%,14%
+ICD10.V11.,D50,Internal Medicine,Iron deficiency anaemia,16,16,0,31,62,31,3%,9%,22%,56%,9%,0%
+ICD10.V11.,Z10,Internal Medicine,Routine general health check-up of defined subpopulation,12,19,4,27,62,31,3%,0%,32%,42%,19%,3%
+ICD10.V11.,E55.9,Internal Medicine,"Vitamin D deficiency, unspecified",10,21,3,27,60,30,0%,13%,23%,29%,19%,16%
+ICD10.V11.,K29.6,Internal Medicine,Other gastritis,13,11,4,20,48,24,0%,8%,29%,38%,25%,0%
+ICD10.V11.,J45,Internal Medicine,Asthma,9,14,7,16,46,23,0%,4%,0%,48%,35%,13%
+ICD10.V11.,R51,Internal Medicine,Headache,12,11,0,22,44,22,0%,17%,9%,57%,9%,9%
+ICD10.V11.,D50.9,Internal Medicine,"Iron deficiency anaemia, unspecified",7,16,0,22,44,22,0%,4%,26%,57%,13%,0%
+ICD10.V11.,R53,Internal Medicine,Malaise and fatigue,15,8,3,20,46,23,4%,0%,22%,35%,26%,13%
+ICD10.V11.,A23,Internal Medicine,Brucellosis,9,10,7,11,36,18,0%,0%,16%,47%,32%,5%
+ICD10.V11.,K29.5,Internal Medicine,"Chronic gastritis, unspecified",11,6,5,12,34,17,0%,0%,18%,35%,29%,18%
+ICD10.V11.,I11,Internal Medicine,Hypertensive heart disease,7,10,7,10,34,17,0%,0%,0%,0%,29%,71%
+ICD10.V11.,E10,Internal Medicine,Type 1 diabetes mellitus,11,5,7,9,32,16,0%,0%,31%,63%,0%,6%
+ICD10.V11.,B96.81,Internal Medicine,Helicobacter pylori [H. pylori] as the cause of diseases classified to other chapters,11,4,1,14,30,15,0%,0%,33%,47%,20%,0%
+ICD10.V11.,K76.0,Internal Medicine,"Fatty (change of) liver, not elsewhere classified",7,7,6,8,28,14,0%,0%,7%,43%,43%,7%
+ICD10.V11.,N40,Internal Medicine,Hyperplasia of prostate,4,9,13,0,26,13,0%,0%,0%,0%,54%,46%
+ICD10.V11.,U86.2,Internal Medicine,Arthritis and osteoarthritis,4,7,3,8,22,11,0%,0%,0%,36%,27%,36%
+ICD10.V11.,R12,Internal Medicine,Heartburn,10,0,0,10,20,10,0%,0%,10%,50%,30%,10%
+ICD10.V11.,D50.0,Internal Medicine,Iron deficiency anaemia secondary to blood loss (chronic),3,7,0,10,20,10,0%,0%,20%,80%,0%,0%
+ICD10.V11.,K29.1,Internal Medicine,Other acute gastritis,6,4,1,9,20,10,0%,0%,30%,50%,10%,10%
+ICD10.V11.,K59.0,Internal Medicine,Constipation,6,3,0,9,18,9,0%,0%,11%,56%,33%,0%
+ICD10.V11.,O09,Internal Medicine,Duration of pregnancy,4,5,0,9,18,9,0%,0%,33%,67%,0%,0%
+ICD10.V11.,N39.0,Internal Medicine,"Urinary tract infection, site not specified",6,3,1,8,18,9,0%,0%,11%,56%,22%,11%
+ICD10.V11.,I25,Internal Medicine,Chronic ischaemic heart disease,4,3,1,6,14,7,0%,0%,0%,0%,29%,71%
+ICD10.V11.,I25.9,Internal Medicine,"Chronic ischaemic heart disease, unspecified",0,7,4,3,14,7,0%,0%,0%,0%,14%,86%
+ICD10.V11.,K58.9,Internal Medicine,Irritable bowel syndrome without diarrhoea,6,1,3,4,14,7,0%,0%,14%,71%,0%,14%
+ICD10.V11.,D64.9,Internal Medicine,"Anaemia, unspecified",0,6,0,4,8,4,0%,17%,17%,50%,17%,0%
+ICD10.V11.,J32,Internal Medicine,Chronic sinusitis,4,2,0,4,8,4,0%,17%,33%,50%,0%,0%
+ICD10.V11.,R05,Internal Medicine,Cough,5,1,2,4,12,6,0%,0%,0%,67%,17%,17%
+ICD10.V11.,O09.2,Internal Medicine,Duration of pregnancy 14-19 completed weeks,2,4,0,6,12,6,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I11.9,Internal Medicine,Hypertensive heart disease without (congestive) heart failure,0,6,5,1,12,6,0%,0%,0%,0%,83%,17%
+ICD10.V11.,M54.5,Internal Medicine,Low back pain,3,3,0,6,12,6,0%,0%,17%,50%,33%,0%
+ICD10.V11.,M79.2,Internal Medicine,"Neuralgia and neuritis, unspecified",1,5,6,0,12,6,0%,0%,0%,100%,0%,0%
+ICD10.V11.,A23.8,Internal Medicine,Other brucellosis,2,4,0,6,12,6,0%,0%,0%,33%,50%,17%
+ICD10.V11.,D75.81,Internal Medicine,Secondary thrombocytosis,4,2,1,5,12,6,0%,0%,33%,17%,17%,33%
+ICD10.V11.,J45.9,Internal Medicine,"Asthma, unspecified",2,3,1,4,10,5,0%,40%,20%,0%,40%,0%
+ICD10.V11.,A23.9,Internal Medicine,"Brucellosis, unspecified",2,3,0,5,10,5,0%,20%,0%,20%,60%,0%
+ICD10.V11.,I67.9,Internal Medicine,"Cerebrovascular disease, unspecified",3,2,5,0,10,5,0%,0%,20%,0%,0%,80%
+ICD10.V11.,N18,Internal Medicine,Chronic kidney disease,2,3,4,1,10,5,0%,0%,0%,0%,20%,80%
+ICD10.V11.,N42.9,Internal Medicine,"Disorder of prostate, unspecified",0,5,5,0,10,5,0%,0%,0%,0%,60%,40%
+ICD10.V11.,E61.1,Internal Medicine,Iron deficiency,4,1,0,5,10,5,0%,0%,20%,80%,0%,0%
+ICD10.V11.,G43,Internal Medicine,Migraine,1,4,0,5,10,5,0%,0%,0%,100%,0%,0%
+ICD10.V11.,G44,Internal Medicine,Other headache syndromes,3,2,0,3,6,3,0%,0%,40%,40%,20%,0%
+ICD10.V11.,G40.5,Internal Medicine,Special epileptic syndromes,0,5,2,3,10,5,0%,20%,80%,0%,0%,0%
+ICD10.V11.,I64,Internal Medicine,"Stroke, not specified as haemorrhage or infarction",2,3,4,1,10,5,0%,0%,0%,0%,0%,100%
+ICD10.V11.,K21,Internal Medicine,Gastro-oesophageal reflux disease,3,1,0,4,8,4,0%,0%,0%,50%,25%,25%
+ICD10.V11.,M10,Internal Medicine,Gout,2,2,2,2,8,4,0%,0%,0%,75%,25%,0%
+ICD10.V11.,K58.0,Internal Medicine,Irritable bowel syndrome with diarrhoea,3,1,2,2,8,4,0%,0%,25%,25%,50%,0%
+ICD10.V11.,N39.81,Internal Medicine,Loin pain/haematuria syndrome,4,0,0,3,6,3,0%,0%,50%,25%,25%,0%
+ICD10.V11.,E03.8,Internal Medicine,Other specified hypothyroidism,2,2,1,3,8,4,0%,0%,0%,0%,100%,0%
+ICD10.V11.,M25.5,Internal Medicine,Pain in joint,2,2,0,2,4,2,0%,0%,0%,75%,25%,0%
+ICD10.V11.,G20,Internal Medicine,Parkinson's disease,1,3,0,4,8,4,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I80.20,Internal Medicine,"Phlebitis and thrombophlebitis of deep vessels of lower extremities, not elsewhere classified",0,4,0,1,2,1,0%,0%,0%,75%,25%,0%
+ICD10.V11.,E11.65,Internal Medicine,Type 2 diabetes mellitus with poor control,1,3,1,3,8,4,25%,0%,0%,0%,75%,0%
+ICD10.V11.,D51,Internal Medicine,Vitamin B12 deficiency anaemia,1,3,0,4,8,4,0%,0%,0%,100%,0%,0%
+ICD10.V11.,G51.0,Internal Medicine,Bell's palsy,1,2,0,3,6,3,0%,0%,0%,0%,100%,0%
+ICD10.V11.,K29.3,Internal Medicine,Chronic superficial gastritis,2,1,1,2,6,3,0%,0%,0%,67%,0%,33%
+ICD10.V11.,I50.0,Internal Medicine,Congestive heart failure,1,2,2,1,6,3,0%,0%,0%,0%,0%,100%
+ICD10.V11.,I42.0,Internal Medicine,Dilated cardiomyopathy,0,3,0,3,6,3,0%,0%,0%,0%,0%,100%
+ICD10.V11.,E07.9,Internal Medicine,"Disorder of thyroid, unspecified",3,0,1,2,6,3,0%,0%,0%,33%,33%,33%
+ICD10.V11.,R42,Internal Medicine,Dizziness and giddiness,2,1,3,0,6,3,0%,0%,67%,0%,0%,33%
+ICD10.V11.,O09.1,Internal Medicine,Duration of pregnancy 5-13 completed weeks,1,2,0,3,6,3,0%,0%,33%,67%,0%,0%
+ICD10.V11.,R03.0,Internal Medicine,"Elevated blood-pressure reading, without diagnosis of hypertension",0,3,0,3,6,3,0%,0%,0%,0%,100%,0%
+ICD10.V11.,G40.9,Internal Medicine,"Epilepsy, unspecified",1,2,1,2,6,3,0%,0%,67%,33%,0%,0%
+ICD10.V11.,G51,Internal Medicine,Facial nerve disorders,2,1,0,3,6,3,0%,0%,0%,33%,67%,0%
+ICD10.V11.,K30,Internal Medicine,Functional dyspepsia,2,1,0,3,6,3,0%,0%,0%,0%,100%,0%
+ICD10.V11.,E22.1,Internal Medicine,Hyperprolactinaemia,2,1,3,0,6,3,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I11.0,Internal Medicine,Hypertensive heart disease with (congestive) heart failure,1,2,3,0,6,3,0%,0%,0%,0%,0%,100%
+ICD10.V11.,E78.2,Internal Medicine,Mixed hyperlipidaemia,2,1,1,2,6,3,0%,0%,0%,33%,67%,0%
+ICD10.V11.,F32.1,Internal Medicine,Moderate depressive episode,1,2,0,3,6,3,0%,0%,0%,100%,0%,0%
+ICD10.V11.,J33.9,Internal Medicine,"Nasal polyp, unspecified",1,2,0,3,6,3,0%,0%,0%,0%,100%,0%
+ICD10.V11.,D68.6,Internal Medicine,Other thrombophilia,0,3,0,3,6,3,0%,0%,0%,0%,100%,0%
+ICD10.V11.,E78.0,Internal Medicine,Pure hypercholesterolaemia,2,1,0,3,6,3,0%,0%,0%,33%,67%,0%
+ICD10.V11.,E78.1,Internal Medicine,Pure hyperglyceridaemia,0,3,1,2,6,3,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I47.1,Internal Medicine,Supraventricular tachycardia,3,0,1,2,6,3,0%,0%,33%,33%,33%,0%
+ICD10.V11.,G44.2,Internal Medicine,Tension-type headache,1,2,0,3,6,3,0%,0%,100%,0%,0%,0%
+ICD10.V11.,E05,Internal Medicine,Thyrotoxicosis [hyperthyroidism],2,1,0,3,6,3,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E11.4,Internal Medicine,Type 2 diabetes mellitus with neurological complication,3,0,1,2,6,3,33%,0%,0%,0%,33%,33%
+ICD10.V11.,E11.40,Internal Medicine,Type 2 diabetes mellitus with unspecified neuropathy,1,2,1,2,6,3,0%,0%,0%,0%,33%,67%
+ICD10.V11.,R32,Internal Medicine,Unspecified urinary incontinence,3,0,2,1,6,3,0%,0%,0%,0%,33%,67%
+ICD10.V11.,R10,Internal Medicine,Abdominal and pelvic pain,1,1,0,2,4,2,0%,0%,0%,50%,0%,50%
+ICD10.V11.,R63.4,Internal Medicine,Abnormal weight loss,1,1,1,1,4,2,0%,0%,50%,50%,0%,0%
+ICD10.V11.,J20,Internal Medicine,Acute bronchitis,2,0,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,J30.1,Internal Medicine,Allergic rhinitis due to pollen,1,1,2,0,4,2,0%,0%,0%,0%,100%,0%
+ICD10.V11.,D55.0,Internal Medicine,Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency,1,1,0,2,4,2,0%,0%,100%,0%,0%,0%
+ICD10.V11.,I25.10,Internal Medicine,"Atherosclerotic heart disease, of unspecified vessel",0,2,2,0,4,2,100%,0%,0%,0%,0%,0%
+ICD10.V11.,J40,Internal Medicine,"Bronchitis, not specified as acute or chronic",1,1,0,2,4,2,0%,0%,0%,50%,0%,50%
+ICD10.V11.,K80.1,Internal Medicine,Calculus of gallbladder with other cholecystitis,2,0,1,1,4,2,0%,0%,0%,0%,50%,50%
+ICD10.V11.,I42,Internal Medicine,Cardiomyopathy,2,0,1,1,4,2,0%,0%,0%,0%,0%,100%
+ICD10.V11.,O24,Internal Medicine,Diabetes mellitus in pregnancy,2,0,0,2,4,2,0%,0%,50%,50%,0%,0%
+ICD10.V11.,O09.3,Internal Medicine,Duration of pregnancy 20-25 completed weeks,1,1,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,O09.4,Internal Medicine,Duration of pregnancy 26-33 completed weeks,1,1,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,R14,Internal Medicine,Flatulence and related conditions,0,2,0,2,4,2,0%,0%,0%,0%,100%,0%
+ICD10.V11.,K21.0,Internal Medicine,Gastro-oesophageal reflux disease with oesophagitis,0,2,1,1,4,2,0%,0%,50%,50%,0%,0%
+ICD10.V11.,I12,Internal Medicine,Hypertensive kidney disease,2,0,1,1,4,2,0%,0%,0%,50%,50%,0%
+ICD10.V11.,E79.0,Internal Medicine,Hyperuricaemia without signs of inflammatory arthritis and tophaceous disease,1,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N92.6,Internal Medicine,"Irregular menstruation, unspecified",2,0,0,2,4,2,0%,0%,100%,0%,0%,0%
+ICD10.V11.,L24.2,Internal Medicine,Irritant contact dermatitis due to solvents,1,1,2,0,4,2,0%,0%,0%,0%,100%,0%
+ICD10.V11.,U82.1,Internal Medicine,Ischaemic heart disease,1,1,2,0,4,2,0%,0%,0%,0%,0%,100%
+ICD10.V11.,Z94.0,Internal Medicine,Kidney transplant status,2,0,1,1,4,2,0%,0%,0%,0%,0%,100%
+ICD10.V11.,R49.8,Internal Medicine,Other and unspecified voice disturbances,0,2,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,J84.1,Internal Medicine,Other interstitial pulmonary diseases with fibrosis,1,1,0,2,4,2,0%,0%,0%,0%,0%,100%
+ICD10.V11.,D50.8,Internal Medicine,Other iron deficiency anaemias,0,2,0,2,4,2,0%,0%,0%,50%,50%,0%
+ICD10.V11.,I05.8,Internal Medicine,Other mitral valve diseases,1,1,0,2,4,2,0%,0%,0%,0%,100%,0%
+ICD10.V11.,I15.8,Internal Medicine,Other secondary hypertension,2,0,0,2,4,2,0%,0%,50%,0%,50%,0%
+ICD10.V11.,I82,Internal Medicine,Other venous embolism and thrombosis,1,1,0,0,0,0,0%,0%,0%,100%,0%,0%
+ICD10.V11.,R00.2,Internal Medicine,Palpitations,2,0,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I47,Internal Medicine,Paroxysmal tachycardia,0,2,0,2,4,2,0%,0%,0%,0%,100%,0%
+ICD10.V11.,E89.0,Internal Medicine,Postprocedural hypothyroidism,0,2,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,O10,Internal Medicine,"Pre-existing hypertension in pregnancy, childbirth and the puerperium",2,0,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,J45.0,Internal Medicine,Predominantly allergic asthma,0,2,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M15.0,Internal Medicine,Primary generalised (osteo)arthrosis,1,1,1,1,4,2,0%,0%,0%,0%,50%,50%
+ICD10.V11.,I15,Internal Medicine,Secondary hypertension,1,1,0,2,4,2,0%,0%,50%,0%,50%,0%
+ICD10.V11.,D75.1,Internal Medicine,Secondary polycythaemia,0,2,2,0,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,R16.1,Internal Medicine,"Splenomegaly, not elsewhere classified",1,1,0,1,2,1,0%,0%,50%,50%,0%,0%
+ICD10.V11.,G50.0,Internal Medicine,Trigeminal neuralgia,1,1,0,2,4,2,0%,0%,0%,0%,0%,100%
+ICD10.V11.,I49.3,Internal Medicine,Ventricular premature depolarisation,1,1,0,2,4,2,0%,0%,0%,0%,100%,0%
+ICD10.V11.,R06,Internal Medicine,Abnormalities of breathing,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,J03,Internal Medicine,Acute tonsillitis,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,J66.8,Internal Medicine,Airway disease due to other specific organic dusts,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,K70.3,Internal Medicine,Alcoholic cirrhosis of liver,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,L23,Internal Medicine,Allergic contact dermatitis,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,G30,Internal Medicine,Alzheimer's disease,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,A06,Internal Medicine,Amoebiasis,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,O99.01,Internal Medicine,Anaemia in pregnancy,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I25.11,Internal Medicine,"Atherosclerotic heart disease, of native coronary artery",1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,D29.1,Internal Medicine,Benign neoplasm of prostate,1,0,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,J47,Internal Medicine,Bronchiectasis,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,M49.17,Internal Medicine,"Brucella spondylitis, lumbosacral region (A23.-+)",1,0,0,1,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,A23.0,Internal Medicine,Brucellosis due to Brucella melitensis,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,K80.20,Internal Medicine,"Calculus of gallbladder without cholecystitis, without mention of obstruction",0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,I63.9,Internal Medicine,"Cerebral infarction, unspecified",0,1,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,M54.2,Internal Medicine,Cervicalgia,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,R07.1,Internal Medicine,Chest pain on breathing,0,1,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,M94.0,Internal Medicine,Chondrocostal junction syndrome [Tietze],0,1,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I48.2,Internal Medicine,Chronic atrial fibrillation,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,U82.2,Internal Medicine,Chronic heart failure,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,N18.5,Internal Medicine,"Chronic kidney disease, stage 5",0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,N18.9,Internal Medicine,"Chronic kidney disease, unspecified",0,1,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,U83.2,Internal Medicine,Chronic obstructive pulmonary disease,0,1,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,J44.9,Internal Medicine,"Chronic obstructive pulmonary disease, unspecified",1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,N41.1,Internal Medicine,Chronic prostatitis,0,1,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,J31.0,Internal Medicine,Chronic rhinitis,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,J32.9,Internal Medicine,"Chronic sinusitis, unspecified",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,J35.0,Internal Medicine,Chronic tonsillitis,0,1,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,K90.0,Internal Medicine,Coeliac disease,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,R56,Internal Medicine,"Convulsions, not elsewhere classified",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N28.1,Internal Medicine,Cyst of kidney,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,Q44.6,Internal Medicine,Cystic disease of liver,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E56.8,Internal Medicine,Deficiency of other vitamins,0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,O24.42,Internal Medicine,"Diabetes mellitus arising during pregnancy, insulin treated",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,J39.9,Internal Medicine,"Disease of upper respiratory tract, unspecified",1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,N51.0,Internal Medicine,Disorders of prostate in diseases classified elsewhere,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,M54,Internal Medicine,Dorsalgia,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,O09.0,Internal Medicine,Duration of pregnancy < 5 completed weeks,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,R30.0,Internal Medicine,Dysuria,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,G11.1,Internal Medicine,Early-onset cerebellar ataxia,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,Q21.81,Internal Medicine,Eisenmenger's defect,0,1,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,R73,Internal Medicine,Elevated blood glucose level,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,U80.3,Internal Medicine,Epilepsy,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,Z01.3,Internal Medicine,Examination of blood pressure,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N92.2,Internal Medicine,Excessive menstruation at puberty,0,1,0,1,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,Q67.0,Internal Medicine,Facial asymmetry,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,R15,Internal Medicine,Faecal incontinence,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,N73.9,Internal Medicine,"Female pelvic inflammatory disease, unspecified",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,K64.0,Internal Medicine,First degree haemorrhoids,1,0,0,0,0,0,0%,0%,0%,100%,0%,0%
+ICD10.V11.,K59.1,Internal Medicine,Functional diarrhoea,0,1,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,K25,Internal Medicine,Gastric ulcer,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,K29.71,Internal Medicine,"Gastritis, unspecified, with haemorrhage",1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,F41.1,Internal Medicine,Generalised anxiety disorder,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,D18.03,Internal Medicine,"Haemangioma, structures of the hepatobiliary system and pancreas",0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,K64.9,Internal Medicine,"Haemorrhoids, unspecified",1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,I50,Internal Medicine,Heart failure,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,G81.9,Internal Medicine,"Hemiplegia, unspecified",1,0,0,0,0,0,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E78.3,Internal Medicine,Hyperchylomicronaemia,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,D89.2,Internal Medicine,"Hypergammaglobulinaemia, unspecified",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I13.1,Internal Medicine,Hypertensive heart and kidney disease with kidney failure,0,1,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,E16.2,Internal Medicine,"Hypoglycaemia, unspecified",1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,M10.06,Internal Medicine,"Idiopathic gout, lower leg",0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,N41,Internal Medicine,Inflammatory diseases of prostate,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,K40,Internal Medicine,Inguinal hernia,1,0,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,E09,Internal Medicine,Intermediate hyperglycaemia,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,R62.9,Internal Medicine,"Lack of expected normal physiological development, unspecified",1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,R22.4,Internal Medicine,"Localised swelling, mass and lump, lower limb",1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,R22.1,Internal Medicine,"Localised swelling, mass and lump, neck",1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,C73,Internal Medicine,Malignant neoplasm of thyroid gland,0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,Q87.4,Internal Medicine,Marfan's syndrome,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,G43.1,Internal Medicine,Migraine with aura [classical migraine],1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,G43.9,Internal Medicine,"Migraine, unspecified",0,1,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,I39.0,Internal Medicine,Mitral valve disorders in diseases classified elsewhere,0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,B26,Internal Medicine,Mumps,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,D44.0,Internal Medicine,Neoplasm of uncertain or unknown behaviour of thyroid gland,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,L65.9,Internal Medicine,"Nonscarring hair loss, unspecified",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E04.1,Internal Medicine,Nontoxic single thyroid nodule,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,D53.9,Internal Medicine,"Nutritional anaemia, unspecified",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,G47.32,Internal Medicine,Obstructive sleep apnoea syndrome,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,H92.0,Internal Medicine,Otalgia,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,R06.8,Internal Medicine,Other and unspecified abnormalities of breathing,0,1,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,M50.8,Internal Medicine,Other cervical disc disorders,0,1,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,J44,Internal Medicine,Other chronic obstructive pulmonary disease,1,0,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,L30,Internal Medicine,Other dermatitis,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,K76,Internal Medicine,Other diseases of liver,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,J39,Internal Medicine,Other diseases of upper respiratory tract,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,H61,Internal Medicine,Other disorders of external ear,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N39,Internal Medicine,Other disorders of urinary system,0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,R19.5,Internal Medicine,Other faecal abnormalities,0,1,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,N73,Internal Medicine,Other female pelvic inflammatory diseases,0,1,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,D53,Internal Medicine,Other nutritional anaemias,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,M81.8,Internal Medicine,Other osteoporosis,0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,M06,Internal Medicine,Other rheumatoid arthritis,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I27.2,Internal Medicine,Other secondary pulmonary hypertension,0,1,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,N64.5,Internal Medicine,Other signs and symptoms in breast,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,T82.89,Internal Medicine,"Other specified complications of cardiac and vascular prosthetic devices, implants and grafts",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,K76.8,Internal Medicine,Other specified diseases of liver,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,I28.8,Internal Medicine,Other specified diseases of pulmonary vessels,0,1,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,K52.8,Internal Medicine,Other specified noninfective gastroenteritis and colitis,1,0,0,0,0,0,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E56,Internal Medicine,Other vitamin deficiencies,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,E66.3,Internal Medicine,Overweight,1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,M25.57,Internal Medicine,"Pain in a joint, ankle and foot",1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,M25.50,Internal Medicine,"Pain in a joint, multiple sites",1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,M79.6,Internal Medicine,Pain in limb,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I47.9,Internal Medicine,"Paroxysmal tachycardia, unspecified",0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,K27.7,Internal Medicine,"Peptic ulcer, chronic without haemorrhage or perforation",0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,K27,Internal Medicine,"Peptic ulcer, site unspecified",1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,F40,Internal Medicine,Phobic anxiety disorders,0,1,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,E28.2,Internal Medicine,Polycystic ovarian syndrome,0,1,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,D45,Internal Medicine,Polycythaemia vera,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,I45.6,Internal Medicine,Pre-excitation syndrome,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,Z95.4,Internal Medicine,Presence of other heart-valve replacement,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,Z95.2,Internal Medicine,Presence of prosthetic heart valve,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M05.34,Internal Medicine,"Rheumatoid arthritis with involvement of other organs and systems, hand",1,0,0,0,0,0,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M05.14,Internal Medicine,"Rheumatoid lung disease, hand",1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,M05.2,Internal Medicine,Rheumatoid vasculitis,0,1,0,0,0,0,0%,0%,0%,100%,0%,0%
+ICD10.V11.,Z10.2,Internal Medicine,Routine general health check-up of armed forces,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,K64.1,Internal Medicine,Second degree haemorrhoids,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I15.9,Internal Medicine,"Secondary hypertension, unspecified",1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,I69,Internal Medicine,Sequelae of cerebrovascular disease,1,0,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,I69.4,Internal Medicine,"Sequelae of stroke, not specified as haemorrhage or infarction",1,0,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,M06.08,Internal Medicine,"Seronegative rheumatoid arthritis, other site",0,1,0,0,0,0,0%,0%,0%,100%,0%,0%
+ICD10.V11.,G47.3,Internal Medicine,Sleep apnoea,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E11.1,Internal Medicine,Type 2 diabetes mellitus with acidosis,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E11.35,Internal Medicine,Type 2 diabetes mellitus with advanced ophthalmic disease,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,E11.01,Internal Medicine,Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycaemic-hyperosmolar coma [NKHHC],1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E11.21,Internal Medicine,Type 2 diabetes mellitus with incipient diabetic nephropathy,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,E11.11,Internal Medicine,"Type 2 diabetes mellitus with ketoacidosis, without coma",1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,E11.71,Internal Medicine,Type 2 diabetes mellitus with multiple microvascular and other specified nonvascular complications,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,A01,Internal Medicine,Typhoid and paratyphoid fevers,1,0,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,A01.0,Internal Medicine,Typhoid fever,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,A75,Internal Medicine,Typhus fever,0,1,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,J42,Internal Medicine,Unspecified chronic bronchitis,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,R31,Internal Medicine,Unspecified haematuria,0,1,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,O16,Internal Medicine,Unspecified maternal hypertension,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N23,Internal Medicine,Unspecified renal colic,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,H54.9,Internal Medicine,Unspecified visual impairment,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N20.9,Internal Medicine,"Urinary calculus, unspecified",1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,A59.0,Internal Medicine,Urogenital trichomoniasis,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,G44.1,Internal Medicine,"Vascular headache, not elsewhere classified",1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,Q21.00,Internal Medicine,"Ventricular septal defect, unspecified",0,1,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,D51.9,Internal Medicine,"Vitamin B12 deficiency anaemia, unspecified",0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,L80,Internal Medicine,Vitiligo,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,B34.2,Internal Medicine,Coronavirus Infection Unspecified Site,,,,,,,,,,,,
+ICD10.V11.,O09.4,Obstetrics & Gynecology,Duration of pregnancy 26-33 completed weeks,98,350,0,443,886,443,0%,0%,39%,60%,1%,0%
+ICD10.V11.,O09.3,Obstetrics & Gynecology,Duration of pregnancy 20-25 completed weeks,104,228,0,331,662,331,0%,0%,42%,57%,1%,0%
+ICD10.V11.,O09.2,Obstetrics & Gynecology,Duration of pregnancy 14-19 completed weeks,130,148,0,263,526,263,0%,0%,43%,56%,1%,0%
+ICD10.V11.,O09.5,Obstetrics & Gynecology,Duration of pregnancy 34-<37 completed weeks,47,129,0,175,350,175,0%,0%,38%,60%,2%,0%
+ICD10.V11.,O09.1,Obstetrics & Gynecology,Duration of pregnancy 5-13 completed weeks,104,46,0,144,288,144,0%,0%,36%,64%,0%,0%
+ICD10.V11.,N97.9,Obstetrics & Gynecology,"Female infertility, unspecified",54,41,0,95,190,95,0%,0%,20%,79%,1%,0%
+ICD10.V11.,O09,Obstetrics & Gynecology,Duration of pregnancy,10,79,0,89,178,89,0%,0%,34%,64%,2%,0%
+ICD10.V11.,B37.3,Obstetrics & Gynecology,Candidiasis of vulva and vagina (N77.1*),30,6,0,36,72,36,0%,0%,19%,72%,8%,0%
+ICD10.V11.,R30.0,Obstetrics & Gynecology,Dysuria,19,16,0,35,70,35,0%,3%,29%,63%,6%,0%
+ICD10.V11.,N72,Obstetrics & Gynecology,Inflammatory disease of cervix uteri,18,9,0,27,54,27,0%,0%,15%,81%,4%,0%
+ICD10.V11.,N92.0,Obstetrics & Gynecology,Excessive and frequent menstruation with regular cycle,12,14,0,26,52,26,0%,8%,8%,81%,4%,0%
+ICD10.V11.,E03.9,Obstetrics & Gynecology,"Hypothyroidism, unspecified",5,18,0,23,46,23,0%,0%,13%,83%,4%,0%
+ICD10.V11.,N92.6,Obstetrics & Gynecology,"Irregular menstruation, unspecified",10,9,0,18,36,18,0%,0%,21%,63%,16%,0%
+ICD10.V11.,E11,Obstetrics & Gynecology,Type 2 diabetes mellitus,7,12,0,19,38,19,0%,0%,5%,89%,5%,0%
+ICD10.V11.,A59.0,Obstetrics & Gynecology,Urogenital trichomoniasis,8,2,0,10,20,10,0%,0%,40%,50%,10%,0%
+ICD10.V11.,N92.1,Obstetrics & Gynecology,Excessive and frequent menstruation with irregular cycle,4,5,0,9,18,9,0%,0%,56%,33%,11%,0%
+ICD10.V11.,U82.3,Obstetrics & Gynecology,Hypertension,2,6,0,8,16,8,0%,0%,0%,88%,13%,0%
+ICD10.V11.,N83.2,Obstetrics & Gynecology,Other and unspecified ovarian cysts,3,5,0,8,16,8,0%,0%,25%,63%,13%,0%
+ICD10.V11.,O03.9,Obstetrics & Gynecology,"Spontaneous abortion, complete or unspecified, without complication",4,4,0,8,16,8,0%,0%,13%,88%,0%,0%
+ICD10.V11.,O09.9,Obstetrics & Gynecology,Unspecified duration of pregnancy,7,0,0,7,14,7,0%,0%,71%,29%,0%,0%
+ICD10.V11.,N93.9,Obstetrics & Gynecology,"Abnormal uterine and vaginal bleeding, unspecified",5,1,0,6,12,6,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E78.5,Obstetrics & Gynecology,"Hyperlipidaemia, unspecified",2,4,0,6,12,6,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N91,Obstetrics & Gynecology,"Absent, scanty and rare menstruation",2,3,0,5,10,5,0%,0%,60%,40%,0%,0%
+ICD10.V11.,K58,Obstetrics & Gynecology,Irritable bowel syndrome,4,1,0,5,10,5,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N91.1,Obstetrics & Gynecology,Secondary amenorrhoea,3,2,0,5,10,5,0%,0%,0%,40%,60%,0%
+ICD10.V11.,O99.01,Obstetrics & Gynecology,Anaemia in pregnancy,1,3,0,4,8,4,0%,0%,25%,75%,0%,0%
+ICD10.V11.,N92.2,Obstetrics & Gynecology,Excessive menstruation at puberty,2,2,0,4,8,4,0%,100%,0%,0%,0%,0%
+ICD10.V11.,O04.9,Obstetrics & Gynecology,"Medical abortion, complete or unspecified, without complication",1,3,0,4,8,4,0%,0%,25%,75%,0%,0%
+ICD10.V11.,N94.8,Obstetrics & Gynecology,Other specified conditions associated with female genital organs and menstrual cycle,2,2,0,4,8,4,0%,0%,75%,25%,0%,0%
+ICD10.V11.,N92.5,Obstetrics & Gynecology,Other specified irregular menstruation,2,2,0,4,8,4,0%,25%,75%,0%,0%,0%
+ICD10.V11.,R10,Obstetrics & Gynecology,Abdominal and pelvic pain,2,1,0,3,6,3,0%,0%,67%,33%,0%,0%
+ICD10.V11.,N91.2,Obstetrics & Gynecology,"Amenorrhoea, unspecified",2,1,0,3,6,3,0%,0%,33%,0%,67%,0%
+ICD10.V11.,O09.0,Obstetrics & Gynecology,Duration of pregnancy < 5 completed weeks,2,1,0,3,6,3,0%,0%,33%,67%,0%,0%
+ICD10.V11.,N94.6,Obstetrics & Gynecology,"Dysmenorrhoea, unspecified",3,0,0,3,6,3,0%,33%,33%,33%,0%,0%
+ICD10.V11.,B96.81,Obstetrics & Gynecology,Helicobacter pylori [H. pylori] as the cause of diseases classified to other chapters,1,2,0,3,6,3,0%,0%,100%,0%,0%,0%
+ICD10.V11.,N95,Obstetrics & Gynecology,Menopausal and other perimenopausal disorders,2,1,0,2,4,2,0%,0%,0%,0%,100%,0%
+ICD10.V11.,F32.1,Obstetrics & Gynecology,Moderate depressive episode,1,2,0,3,6,3,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E28.2,Obstetrics & Gynecology,Polycystic ovarian syndrome,1,2,0,3,6,3,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E55,Obstetrics & Gynecology,Vitamin D deficiency,1,2,0,3,6,3,0%,0%,0%,100%,0%,0%
+ICD10.V11.,U87.1,Obstetrics & Gynecology,"Chronic kidney disease, stage 3 to 5",1,1,0,2,4,2,0%,0%,100%,0%,0%,0%
+ICD10.V11.,N18.5,Obstetrics & Gynecology,"Chronic kidney disease, stage 5",1,1,0,2,4,2,0%,0%,100%,0%,0%,0%
+ICD10.V11.,N92,Obstetrics & Gynecology,"Excessive, frequent and irregular menstruation",1,1,0,2,4,2,0%,0%,50%,50%,0%,0%
+ICD10.V11.,N97,Obstetrics & Gynecology,Female infertility,1,1,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,K29.7,Obstetrics & Gynecology,"Gastritis, unspecified",1,1,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,D50.0,Obstetrics & Gynecology,Iron deficiency anaemia secondary to blood loss (chronic),2,0,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N93,Obstetrics & Gynecology,Other abnormal uterine and vaginal bleeding,2,0,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,O05,Obstetrics & Gynecology,Other abortion,2,0,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E28.9,Obstetrics & Gynecology,"Ovarian dysfunction, unspecified",1,1,0,2,4,2,0%,0%,100%,0%,0%,0%
+ICD10.V11.,E89.0,Obstetrics & Gynecology,Postprocedural hypothyroidism,0,2,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N94.4,Obstetrics & Gynecology,Primary dysmenorrhoea,1,1,0,2,4,2,0%,50%,50%,0%,0%,0%
+ICD10.V11.,O03,Obstetrics & Gynecology,Spontaneous abortion,1,1,0,2,4,2,0%,0%,50%,50%,0%,0%
+ICD10.V11.,N94.9,Obstetrics & Gynecology,Unspecified condition associated with female genital organs and menstrual cycle,2,0,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N39.0,Obstetrics & Gynecology,"Urinary tract infection, site not specified",2,0,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E55.9,Obstetrics & Gynecology,"Vitamin D deficiency, unspecified",0,2,0,2,4,2,0%,0%,50%,50%,0%,0%
+ICD10.V11.,J45,Obstetrics & Gynecology,Asthma,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,B37,Obstetrics & Gynecology,Candidiasis,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,N86,Obstetrics & Gynecology,Erosion and ectropion of cervix uteri,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N92.4,Obstetrics & Gynecology,Excessive bleeding in the premenopausal period,0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,E22.1,Obstetrics & Gynecology,Hyperprolactinaemia,0,1,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,N88.4,Obstetrics & Gynecology,Hypertrophic elongation of cervix uteri,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,N71,Obstetrics & Gynecology,"Inflammatory disease of uterus, except cervix",1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,D25.1,Obstetrics & Gynecology,Intramural leiomyoma of uterus,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E61.1,Obstetrics & Gynecology,Iron deficiency,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,D50,Obstetrics & Gynecology,Iron deficiency anaemia,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,D25,Obstetrics & Gynecology,Leiomyoma of uterus,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,O35,Obstetrics & Gynecology,Maternal care for known or suspected fetal abnormality and damage,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,O04,Obstetrics & Gynecology,Medical abortion,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,O02.1,Obstetrics & Gynecology,Missed abortion,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,O05.9,Obstetrics & Gynecology,"Other abortion, complete or unspecified, without complication",0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,R10.4,Obstetrics & Gynecology,Other and unspecified abdominal pain,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,K74.6,Obstetrics & Gynecology,Other and unspecified cirrhosis of liver,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E03,Obstetrics & Gynecology,Other hypothyroidism,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,D50.8,Obstetrics & Gynecology,Other iron deficiency anaemias,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N64.5,Obstetrics & Gynecology,Other signs and symptoms in breast,1,0,0,0,0,0,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N84.2,Obstetrics & Gynecology,Polyp of vagina,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N95.0,Obstetrics & Gynecology,Postmenopausal bleeding,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,O10,Obstetrics & Gynecology,"Pre-existing hypertension in pregnancy, childbirth and the puerperium",0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,Z32.1,Obstetrics & Gynecology,Pregnancy confirmed,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,Z10.8,Obstetrics & Gynecology,Routine general health check-up of other defined subpopulations,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,F20,Obstetrics & Gynecology,Schizophrenia,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,R16.1,Obstetrics & Gynecology,"Splenomegaly, not elsewhere classified",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,O03.8,Obstetrics & Gynecology,"Spontaneous abortion, complete or unspecified, with other and unspecified complications",0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,D25.2,Obstetrics & Gynecology,Subserosal leiomyoma of uterus,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M32.1,Obstetrics & Gynecology,Systemic lupus erythematosus with organ or system involvement,0,1,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,O88.2,Obstetrics & Gynecology,obstetric Blood clot embolism,,,,,,,,,,,,
+ICD10.V11.,O99.2,Obstetrics & Gynecology,"Endocrine, nutritional and metabolic disease in pregnancy, childbirth and the puerperium",,,,,,,,,,,,
+ICD10.V11.,O23.4,Obstetrics & Gynecology,Unspecified infection of urinary tract in pregnancy,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,H10,Ophthalmology,Conjunctivitis,123,21,73,65,276,138,8%,15%,18%,24%,22%,14%
+ICD10.V11.,Z01.0,Ophthalmology,Examination of eyes and vision,102,17,85,28,226,113,7%,8%,22%,42%,19%,3%
+ICD10.V11.,H52,Ophthalmology,Disorders of refraction and accommodation,54,10,28,33,122,61,0%,11%,30%,44%,14%,2%
+ICD10.V11.,H04,Ophthalmology,Disorders of lacrimal system,43,4,20,23,86,43,2%,9%,19%,34%,30%,6%
+ICD10.V11.,H53.0,Ophthalmology,Amblyopia ex anopsia,13,8,21,0,42,21,5%,5%,14%,67%,10%,0%
+ICD10.V11.,H52.1,Ophthalmology,Myopia,15,5,7,11,36,18,5%,25%,25%,35%,10%,0%
+ICD10.V11.,H11.0,Ophthalmology,Pterygium,15,3,9,9,36,18,0%,0%,6%,33%,44%,17%
+ICD10.V11.,H25,Ophthalmology,Senile cataract,10,4,8,6,28,14,0%,0%,0%,7%,64%,29%
+ICD10.V11.,H04.8,Ophthalmology,Other disorders of lacrimal system,8,3,6,5,22,11,0%,9%,9%,45%,27%,9%
+ICD10.V11.,H10.5,Ophthalmology,Blepharoconjunctivitis,8,2,3,7,20,10,0%,20%,0%,40%,30%,10%
+ICD10.V11.,H01.0,Ophthalmology,Blepharitis,8,1,5,4,18,9,0%,11%,33%,33%,11%,11%
+ICD10.V11.,H00.1,Ophthalmology,Chalazion,6,3,2,5,14,7,11%,11%,33%,11%,33%,0%
+ICD10.V11.,H52.6,Ophthalmology,Other disorders of refraction,7,1,3,5,16,8,0%,13%,13%,75%,0%,0%
+ICD10.V11.,E11,Ophthalmology,Type 2 diabetes mellitus,7,1,3,5,16,8,0%,0%,0%,38%,38%,25%
+ICD10.V11.,H52.2,Ophthalmology,Astigmatism,4,3,6,0,12,6,0%,14%,14%,57%,14%,0%
+ICD10.V11.,H35.3,Ophthalmology,Degeneration of macula and posterior pole,6,1,2,5,14,7,0%,0%,0%,14%,57%,29%
+ICD10.V11.,E03.9,Ophthalmology,"Hypothyroidism, unspecified",7,0,0,7,14,7,0%,0%,0%,14%,71%,14%
+ICD10.V11.,U82.3,Ophthalmology,Hypertension,5,1,3,3,12,6,0%,0%,0%,33%,17%,50%
+ICD10.V11.,H26.2,Ophthalmology,Complicated cataract,3,2,2,2,8,4,0%,0%,0%,20%,40%,40%
+ICD10.V11.,H10.8,Ophthalmology,Other conjunctivitis,4,1,5,0,10,5,0%,40%,0%,20%,20%,20%
+ICD10.V11.,H10.3,Ophthalmology,"Acute conjunctivitis, unspecified",4,0,2,2,8,4,50%,25%,0%,25%,0%,0%
+ICD10.V11.,H50,Ophthalmology,Other strabismus,3,1,3,1,8,4,25%,25%,25%,25%,0%,0%
+ICD10.V11.,Z96.1,Ophthalmology,Presence of intraocular lens,4,0,1,3,8,4,0%,0%,0%,0%,0%,100%
+ICD10.V11.,H17,Ophthalmology,Corneal scars and opacities,3,0,1,2,6,3,0%,0%,33%,0%,0%,67%
+ICD10.V11.,H52.0,Ophthalmology,Hypermetropia,2,1,3,0,6,3,0%,0%,33%,0%,67%,0%
+ICD10.V11.,K58,Ophthalmology,Irritable bowel syndrome,3,0,0,3,6,3,0%,0%,0%,33%,33%,33%
+ICD10.V11.,H16.8,Ophthalmology,Other keratitis,2,1,2,1,6,3,0%,33%,0%,0%,0%,67%
+ICD10.V11.,H25.1,Ophthalmology,Senile nuclear cataract,3,0,2,1,6,3,0%,0%,0%,0%,33%,67%
+ICD10.V11.,H10.4,Ophthalmology,Chronic conjunctivitis,2,0,2,0,4,2,0%,50%,0%,50%,0%,0%
+ICD10.V11.,H50.0,Ophthalmology,Convergent concomitant strabismus,0,2,2,0,4,2,0%,50%,0%,50%,0%,0%
+ICD10.V11.,I10,Ophthalmology,Essential (primary) hypertension,2,0,1,1,4,2,0%,0%,0%,0%,0%,100%
+ICD10.V11.,K29.7,Ophthalmology,"Gastritis, unspecified",2,0,0,2,4,2,0%,0%,50%,0%,50%,0%
+ICD10.V11.,H40,Ophthalmology,Glaucoma,0,2,2,0,4,2,0%,0%,0%,0%,0%,100%
+ICD10.V11.,E78.5,Ophthalmology,"Hyperlipidaemia, unspecified",2,0,1,1,4,2,0%,0%,0%,0%,50%,50%
+ICD10.V11.,H20,Ophthalmology,Iridocyclitis,1,1,2,0,4,2,0%,0%,100%,0%,0%,0%
+ICD10.V11.,H18.6,Ophthalmology,Keratoconus,2,0,1,0,2,1,0%,0%,50%,50%,0%,0%
+ICD10.V11.,S05.2,Ophthalmology,Ocular laceration and rupture with prolapse or loss of intraocular tissue,2,0,2,0,4,2,0%,50%,50%,0%,0%,0%
+ICD10.V11.,H47.2,Ophthalmology,Optic atrophy,1,1,0,0,0,0,0%,0%,0%,100%,0%,0%
+ICD10.V11.,H10.2,Ophthalmology,Other acute conjunctivitis,2,0,1,1,4,2,0%,0%,50%,50%,0%,0%
+ICD10.V11.,R10.4,Ophthalmology,Other and unspecified abdominal pain,1,1,1,1,4,2,0%,0%,50%,0%,0%,50%
+ICD10.V11.,H17.1,Ophthalmology,Other central corneal opacity,2,0,2,0,4,2,50%,0%,50%,0%,0%,0%
+ICD10.V11.,H04.6,Ophthalmology,Other changes in lacrimal passages,2,0,1,1,4,2,0%,0%,0%,0%,50%,50%
+ICD10.V11.,H47.3,Ophthalmology,Other disorders of optic disc,1,1,0,2,4,2,0%,0%,0%,50%,50%,0%
+ICD10.V11.,H25.8,Ophthalmology,Other senile cataract,2,0,0,2,4,2,0%,0%,0%,50%,0%,50%
+ICD10.V11.,H35.8,Ophthalmology,Other specified retinal disorders,2,0,0,2,4,2,50%,50%,0%,0%,0%,0%
+ICD10.V11.,H52.4,Ophthalmology,Presbyopia,2,0,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,G51.0,Ophthalmology,Bell's palsy,0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,Q13.5,Ophthalmology,Blue sclera,1,0,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,U82.2,Ophthalmology,Chronic heart failure,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,H04.4,Ophthalmology,Chronic inflammation of lacrimal passages,1,0,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,I25.9,Ophthalmology,"Chronic ischaemic heart disease, unspecified",1,0,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,Q13.0,Ophthalmology,Coloboma of iris,1,0,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,H53.5,Ophthalmology,Colour vision deficiencies,1,0,0,0,0,0,0%,0%,100%,0%,0%,0%
+ICD10.V11.,H11.3,Ophthalmology,Conjunctival haemorrhage,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,H10.9,Ophthalmology,"Conjunctivitis, unspecified",1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,S00.1,Ophthalmology,Contusion of eyelid and periocular area,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,H04.0,Ophthalmology,Dacryoadenitis,1,0,0,1,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,H53.2,Ophthalmology,Diplopia,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,H02.9,Ophthalmology,"Disorder of eyelid, unspecified",0,1,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,H50.1,Ophthalmology,Divergent concomitant strabismus,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,H02.0,Ophthalmology,Entropion and trichiasis of eyelid,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,G51,Ophthalmology,Facial nerve disorders,0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,R51,Ophthalmology,Headache,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I11,Ophthalmology,Hypertensive heart disease,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,S05.0,Ophthalmology,Injury of conjunctiva and corneal abrasion without mention of foreign body,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,S05,Ophthalmology,Injury of eye and orbit,1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,D50,Ophthalmology,Iron deficiency anaemia,0,1,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,H16,Ophthalmology,Keratitis,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,H10.0,Ophthalmology,Mucopurulent conjunctivitis,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,P39.1,Ophthalmology,Neonatal conjunctivitis and dacryocystitis,1,0,0,1,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,Q11.1,Ophthalmology,Other anophthalmos,1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,H26,Ophthalmology,Other cataract,1,0,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,H17.8,Ophthalmology,Other corneal scars and opacities,0,1,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,H11,Ophthalmology,Other disorders of conjunctiva,1,0,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,H04.1,Ophthalmology,Other disorders of lacrimal gland,1,0,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,H35,Ophthalmology,Other retinal disorders,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,H16.1,Ophthalmology,Other superficial keratitis without conjunctivitis,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,H43.3,Ophthalmology,Other vitreous opacities,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I47,Ophthalmology,Paroxysmal tachycardia,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,H33.2,Ophthalmology,Serous retinal detachment,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,E10,Ophthalmology,Type 1 diabetes mellitus,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,H53,Ophthalmology,Visual disturbances,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,H44.6,Ophthalmology,"Retained (old) intraocular foreign body, magnetic",,,,,,,,,,,,
+ICD10.V11.,H42.0,Ophthalmology,"Glaucoma in endocrine, nutritional and metabolic diseases",,,,,,,,,,,,
+ICD10.V11.,H28.1,Ophthalmology,"Cataract in endocrine, nutritional and metabolic diseases",,,,,,,,,,,,
+ICD10.V11.,H44.7,Ophthalmology,"Retained (old) intraocular foreign body, nonmagnetic",,,,,,,,,,,,
+ICD10.V11.,S82.81,Orthopedic Surgery ,"Bimalleolar fracture, ankle",1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M17.0,Orthopedic Surgery ,"Primary gonarthrosis, bilateral",1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,U86.2,Orthopedic Surgery ,Arthritis and osteoarthritis,91,65,49,106,310,155,1%,0%,1%,19%,52%,26%
+ICD10.V11.,M54.5,Orthopedic Surgery ,Low back pain,96,46,49,87,272,136,1%,3%,8%,47%,36%,5%
+ICD10.V11.,M43.02,Orthopedic Surgery ,"Spondylolysis, cervical region",15,7,1,21,44,22,0%,0%,0%,50%,41%,9%
+ICD10.V11.,E11,Orthopedic Surgery ,Type 2 diabetes mellitus,11,9,11,9,40,20,0%,0%,0%,0%,60%,40%
+ICD10.V11.,M77.3,Orthopedic Surgery ,Calcaneal spur,9,9,2,16,36,18,0%,0%,0%,56%,33%,11%
+ICD10.V11.,S52.5,Orthopedic Surgery ,Fracture of lower end of radius,11,7,13,3,32,16,11%,50%,33%,6%,0%,0%
+ICD10.V11.,U82.3,Orthopedic Surgery ,Hypertension,6,10,5,11,32,16,0%,0%,0%,6%,56%,38%
+ICD10.V11.,M60,Orthopedic Surgery ,Myositis,10,4,2,11,26,13,0%,0%,36%,50%,0%,14%
+ICD10.V11.,E03.9,Orthopedic Surgery ,"Hypothyroidism, unspecified",6,7,2,11,26,13,0%,0%,0%,46%,46%,8%
+ICD10.V11.,M17.0,Orthopedic Surgery ,"Primary gonarthrosis, bilateral",10,3,2,11,26,13,0%,0%,0%,23%,62%,15%
+ICD10.V11.,M25.51,Orthopedic Surgery ,"Pain in a joint, shoulder region",8,4,5,7,24,12,0%,0%,8%,42%,17%,33%
+ICD10.V11.,S93.6,Orthopedic Surgery ,Sprain and strain of other and unspecified parts of foot,6,5,1,9,20,10,0%,27%,9%,36%,27%,0%
+ICD10.V11.,S83.6,Orthopedic Surgery ,Sprain and strain of other and unspecified parts of knee,10,1,7,2,18,9,18%,9%,36%,27%,9%,0%
+ICD10.V11.,R26,Orthopedic Surgery ,Abnormalities of gait and mobility,6,4,4,6,20,10,90%,10%,0%,0%,0%,0%
+ICD10.V11.,M47.22,Orthopedic Surgery ,"Other spondylosis with radiculopathy, cervical region",4,5,1,7,16,8,0%,0%,0%,44%,56%,0%
+ICD10.V11.,M25.57,Orthopedic Surgery ,"Pain in a joint, ankle and foot",5,2,3,3,12,6,0%,0%,29%,57%,14%,0%
+ICD10.V11.,M25.54,Orthopedic Surgery ,"Pain in a joint, hand",4,3,7,0,14,7,29%,0%,0%,71%,0%,0%
+ICD10.V11.,M25.56,Orthopedic Surgery ,"Pain in a joint, lower leg",6,1,4,3,14,7,14%,14%,14%,43%,14%,0%
+ICD10.V11.,S92.9,Orthopedic Surgery ,"Fracture of foot, unspecified",1,5,5,1,12,6,33%,0%,50%,0%,17%,0%
+ICD10.V11.,S92.4,Orthopedic Surgery ,Fracture of great toe,1,5,5,1,12,6,50%,0%,33%,0%,17%,0%
+ICD10.V11.,S62.3,Orthopedic Surgery ,Fracture of other metacarpal bone,3,3,5,0,10,5,0%,67%,17%,17%,0%,0%
+ICD10.V11.,M17,Orthopedic Surgery ,Gonarthrosis [arthrosis of knee],4,2,0,6,12,6,17%,0%,0%,17%,67%,0%
+ICD10.V11.,M47.82,Orthopedic Surgery ,"Other spondylosis, cervical region",4,2,2,4,12,6,0%,0%,0%,17%,50%,33%
+ICD10.V11.,M25.5,Orthopedic Surgery ,Pain in joint,6,0,2,3,10,5,0%,17%,0%,50%,33%,0%
+ICD10.V11.,I10,Orthopedic Surgery ,Essential (primary) hypertension,2,3,4,1,10,5,0%,0%,0%,0%,80%,20%
+ICD10.V11.,S92.3,Orthopedic Surgery ,Fracture of metatarsal bone,3,2,3,2,10,5,0%,40%,20%,40%,0%,0%
+ICD10.V11.,S62.6,Orthopedic Surgery ,Fracture of other finger,2,3,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,K29.7,Orthopedic Surgery ,"Gastritis, unspecified",3,2,0,5,10,5,0%,0%,40%,60%,0%,0%
+ICD10.V11.,M70.7,Orthopedic Surgery ,Other bursitis of hip,2,3,1,4,10,5,0%,0%,20%,60%,0%,20%
+ICD10.V11.,M25.59,Orthopedic Surgery ,"Pain in a joint, site unspecified",4,1,2,3,10,5,20%,0%,40%,20%,20%,0%
+ICD10.V11.,M47,Orthopedic Surgery ,Spondylosis,3,2,1,4,10,5,0%,0%,0%,60%,40%,0%
+ICD10.V11.,S93.4,Orthopedic Surgery ,Sprain and strain of ankle,5,0,2,3,10,5,0%,40%,20%,40%,0%,0%
+ICD10.V11.,M54.2,Orthopedic Surgery ,Cervicalgia,4,0,1,3,8,4,0%,0%,0%,75%,25%,0%
+ICD10.V11.,S62.5,Orthopedic Surgery ,Fracture of thumb,2,2,3,0,6,3,25%,25%,0%,50%,0%,0%
+ICD10.V11.,S42.2,Orthopedic Surgery ,Fracture of upper end of humerus,1,3,2,2,8,4,0%,100%,0%,0%,0%,0%
+ICD10.V11.,Q74.15,Orthopedic Surgery ,Genu varum,1,3,1,3,8,4,100%,0%,0%,0%,0%,0%
+ICD10.V11.,E78.5,Orthopedic Surgery ,"Hyperlipidaemia, unspecified",4,0,1,3,8,4,0%,0%,0%,0%,75%,25%
+ICD10.V11.,R10.4,Orthopedic Surgery ,Other and unspecified abdominal pain,2,2,1,3,8,4,0%,0%,50%,25%,0%,25%
+ICD10.V11.,M47.2,Orthopedic Surgery ,Other spondylosis with radiculopathy,1,3,2,2,8,4,0%,0%,0%,75%,25%,0%
+ICD10.V11.,M79.67,Orthopedic Surgery ,"Pain in limb, ankle and foot",2,2,1,3,8,4,0%,25%,0%,50%,25%,0%
+ICD10.V11.,M77.2,Orthopedic Surgery ,Periarthritis of wrist,3,1,1,2,6,3,0%,0%,0%,25%,50%,25%
+ICD10.V11.,S53.4,Orthopedic Surgery ,Sprain and strain of elbow,4,0,2,2,8,4,50%,50%,0%,0%,0%,0%
+ICD10.V11.,M65.3,Orthopedic Surgery ,Trigger finger,3,1,2,0,4,2,0%,0%,0%,50%,25%,25%
+ICD10.V11.,E11.11,Orthopedic Surgery ,"Type 2 diabetes mellitus with ketoacidosis, without coma",1,3,4,0,8,4,0%,0%,0%,0%,100%,0%
+ICD10.V11.,Q65.0,Orthopedic Surgery ,"Congenital dislocation of hip, unilateral",2,1,2,1,6,3,67%,33%,0%,0%,0%,0%
+ICD10.V11.,S82.6,Orthopedic Surgery ,Fracture of lateral malleolus,2,1,1,2,6,3,0%,0%,67%,33%,0%,0%
+ICD10.V11.,S52.6,Orthopedic Surgery ,Fracture of lower end of both ulna and radius,2,1,1,2,6,3,33%,33%,33%,0%,0%,0%
+ICD10.V11.,S72.3,Orthopedic Surgery ,Fracture of shaft of femur,3,0,3,0,6,3,0%,0%,33%,67%,0%,0%
+ICD10.V11.,S82.2,Orthopedic Surgery ,Fracture of shaft of tibia,1,2,3,0,6,3,67%,0%,33%,0%,0%,0%
+ICD10.V11.,M17.1,Orthopedic Surgery ,Other primary gonarthrosis,2,1,1,1,4,2,0%,0%,0%,0%,67%,33%
+ICD10.V11.,M47.12,Orthopedic Surgery ,"Other spondylosis with myelopathy, cervical region",0,3,1,2,6,3,0%,0%,0%,0%,67%,33%
+ICD10.V11.,M25.50,Orthopedic Surgery ,"Pain in a joint, multiple sites",1,2,1,2,6,3,0%,0%,0%,67%,0%,33%
+ICD10.V11.,M79.61,Orthopedic Surgery ,"Pain in limb, shoulder region",3,0,1,2,6,3,0%,0%,0%,67%,33%,0%
+ICD10.V11.,M41,Orthopedic Surgery ,Scoliosis,2,1,2,1,6,3,0%,33%,67%,0%,0%,0%
+ICD10.V11.,J45,Orthopedic Surgery ,Asthma,1,1,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M94.0,Orthopedic Surgery ,Chondrocostal junction syndrome [Tietze],1,1,2,0,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,Q68.11,Orthopedic Surgery ,Congenital clubhand,2,0,0,2,4,2,0%,0%,50%,50%,0%,0%
+ICD10.V11.,S67.0,Orthopedic Surgery ,Crushing injury of thumb and other finger(s),1,1,2,0,4,2,50%,50%,0%,0%,0%,0%
+ICD10.V11.,S43.2,Orthopedic Surgery ,Dislocation of sternoclavicular joint,1,1,0,2,4,2,0%,0%,100%,0%,0%,0%
+ICD10.V11.,S53,Orthopedic Surgery ,"Dislocation, sprain and strain of joints and ligaments of elbow",0,2,2,0,4,2,100%,0%,0%,0%,0%,0%
+ICD10.V11.,P14.0,Orthopedic Surgery ,Erb's paralysis due to birth trauma,1,1,2,0,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,S62,Orthopedic Surgery ,Fracture at wrist and hand level,1,1,1,1,4,2,50%,50%,0%,0%,0%,0%
+ICD10.V11.,S42.0,Orthopedic Surgery ,Fracture of clavicle,2,0,2,0,4,2,50%,0%,0%,0%,50%,0%
+ICD10.V11.,S62.8,Orthopedic Surgery ,Fracture of other and unspecified parts of wrist and hand,0,2,2,0,4,2,0%,100%,0%,0%,0%,0%
+ICD10.V11.,S82.21,Orthopedic Surgery ,Fracture of shaft of tibia with fracture of fibula (any part),1,1,1,1,4,2,0%,0%,50%,0%,50%,0%
+ICD10.V11.,M67.44,Orthopedic Surgery ,"Ganglion, hand",1,1,1,1,4,2,50%,0%,50%,0%,0%,0%
+ICD10.V11.,N40,Orthopedic Surgery ,Hyperplasia of prostate,1,1,2,0,4,2,0%,0%,0%,0%,50%,50%
+ICD10.V11.,S62.7,Orthopedic Surgery ,Multiple fractures of fingers,1,1,0,0,0,0,0%,0%,100%,0%,0%,0%
+ICD10.V11.,J84.1,Orthopedic Surgery ,Other interstitial pulmonary diseases with fibrosis,0,2,0,2,4,2,0%,0%,0%,0%,0%,100%
+ICD10.V11.,M47.26,Orthopedic Surgery ,"Other spondylosis with radiculopathy, lumbar region",2,0,1,1,4,2,0%,0%,0%,50%,50%,0%
+ICD10.V11.,M25.53,Orthopedic Surgery ,"Pain in a joint, forearm",2,0,1,0,2,1,0%,0%,0%,50%,50%,0%
+ICD10.V11.,M25.55,Orthopedic Surgery ,"Pain in a joint, pelvic region and thigh",1,1,0,2,4,2,0%,50%,50%,0%,0%,0%
+ICD10.V11.,Q66.7,Orthopedic Surgery ,Pes cavus,0,2,0,2,4,2,0%,100%,0%,0%,0%,0%
+ICD10.V11.,M15.0,Orthopedic Surgery ,Primary generalised (osteo)arthrosis,2,0,0,2,4,2,0%,0%,50%,0%,50%,0%
+ICD10.V11.,M43.0,Orthopedic Surgery ,Spondylolysis,1,1,1,1,4,2,0%,0%,0%,0%,50%,50%
+ICD10.V11.,S23.3,Orthopedic Surgery ,Sprain and strain of thoracic spine,2,0,2,0,4,2,0%,0%,50%,50%,0%,0%
+ICD10.V11.,S42.41,Orthopedic Surgery ,Supracondylar fracture of humerus,2,0,0,2,4,2,50%,50%,0%,0%,0%,0%
+ICD10.V11.,G50.0,Orthopedic Surgery ,Trigeminal neuralgia,0,2,0,2,4,2,0%,0%,0%,0%,0%,100%
+ICD10.V11.,M21.57,Orthopedic Surgery ,"Acquired clawhand, clubhand, clawfoot and clubfoot, ankle and foot",1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,M21.54,Orthopedic Surgery ,"Acquired clawhand, clubhand, clawfoot and clubfoot, hand",1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,M21.94,Orthopedic Surgery ,"Acquired deformity of limb, unspecified, hand",0,1,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,D16.2,Orthopedic Surgery ,Benign neoplasm of long bones of lower limb,1,0,0,1,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,G80,Orthopedic Surgery ,Cerebral palsy,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M50.1,Orthopedic Surgery ,Cervical disc disorder with radiculopathy,0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,I25,Orthopedic Surgery ,Chronic ischaemic heart disease,0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,I25.9,Orthopedic Surgery ,"Chronic ischaemic heart disease, unspecified",0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,N18,Orthopedic Surgery ,Chronic kidney disease,0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,S67,Orthopedic Surgery ,Crushing injury of wrist and hand,0,1,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,R26.2,Orthopedic Surgery ,"Difficulty in walking, not elsewhere classified",1,0,0,1,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,S83,Orthopedic Surgery ,"Dislocation, sprain and strain of joints and ligaments of knee",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N42.9,Orthopedic Surgery ,"Disorder of prostate, unspecified",1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,M21.4,Orthopedic Surgery ,Flat foot [pes planus] (acquired),0,1,0,1,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,S32.4,Orthopedic Surgery ,Fracture of acetabulum,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,S62.52,Orthopedic Surgery ,Fracture of distal phalanx of thumb,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,S92,Orthopedic Surgery ,"Fracture of foot, except ankle",0,1,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,S52.50,Orthopedic Surgery ,"Fracture of lower end of radius, unspecified",1,0,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,S82.3,Orthopedic Surgery ,Fracture of lower end of tibia,1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,S32,Orthopedic Surgery ,Fracture of lumbar spine and pelvis,0,1,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,S92.21,Orthopedic Surgery ,"Fracture of navicular [scaphoid], foot",0,1,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,S52.01,Orthopedic Surgery ,Fracture of olecranon process of ulna,1,0,0,1,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,S62.61,Orthopedic Surgery ,Fracture of proximal phalanx,0,1,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,S42.1,Orthopedic Surgery ,Fracture of scapula,1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,S42.02,Orthopedic Surgery ,Fracture of shaft of clavicle,0,1,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,S82.42,Orthopedic Surgery ,Fracture of shaft of fibula,1,0,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,S62.32,Orthopedic Surgery ,Fracture of shaft of other metacarpal bone(s),0,1,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,S52.3,Orthopedic Surgery ,Fracture of shaft of radius,1,0,0,0,0,0,0%,0%,0%,100%,0%,0%
+ICD10.V11.,S52.30,Orthopedic Surgery ,"Fracture of shaft of radius, part unspecified",1,0,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,S52.4,Orthopedic Surgery ,Fracture of shafts of both ulna and radius,0,1,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,T08,Orthopedic Surgery ,"Fracture of spine, level unspecified",1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,S42.22,Orthopedic Surgery ,Fracture of surgical neck of humerus,0,1,0,1,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,S42.20,Orthopedic Surgery ,"Fracture of upper end of humerus, part unspecified",1,0,0,1,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,M10,Orthopedic Surgery ,Gout,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,D18.03,Orthopedic Surgery ,"Haemangioma, structures of the hepatobiliary system and pancreas",0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I13.0,Orthopedic Surgery ,Hypertensive heart and kidney disease with (congestive) heart failure,0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,I11,Orthopedic Surgery ,Hypertensive heart disease,0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,D50.0,Orthopedic Surgery ,Iron deficiency anaemia secondary to blood loss (chronic),1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,D50.9,Orthopedic Surgery ,"Iron deficiency anaemia, unspecified",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,K58,Orthopedic Surgery ,Irritable bowel syndrome,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M41.15,Orthopedic Surgery ,"Juvenile idiopathic scoliosis, thoracolumbar region",0,1,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,Q72.4,Orthopedic Surgery ,Longitudinal reduction defect of femur,0,1,0,1,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,Q71.4,Orthopedic Surgery ,Longitudinal reduction defects of radius,0,1,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,R53,Orthopedic Surgery ,Malaise and fatigue,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,S32.7,Orthopedic Surgery ,Multiple fractures of lumbar spine with pelvis,0,1,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M62.6,Orthopedic Surgery ,Muscle strain,1,0,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,S61.9,Orthopedic Surgery ,"Open wound of wrist and hand, part unspecified",1,0,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,M25.76,Orthopedic Surgery ,"Osteophyte, lower leg",0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,R26.8,Orthopedic Surgery ,Other and unspecified abnormalities of gait and mobility,1,0,0,1,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,M70.3,Orthopedic Surgery ,Other bursitis of elbow,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M70.5,Orthopedic Surgery ,Other bursitis of knee,1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,Q67.8,Orthopedic Surgery ,Other congenital deformities of chest,1,0,0,1,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,M23.81,Orthopedic Surgery ,Other internal derangements of anterior cruciate ligament or anterior horn of medial meniscus,0,1,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M23.3,Orthopedic Surgery ,Other meniscus derangements,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M60.8,Orthopedic Surgery ,Other myositis,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,M13.86,Orthopedic Surgery ,"Other specified arthritis, lower leg",1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,M47.27,Orthopedic Surgery ,"Other spondylosis with radiculopathy, lumbosacral region",1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,M47.86,Orthopedic Surgery ,"Other spondylosis, lumbar region",0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,M47.87,Orthopedic Surgery ,"Other spondylosis, lumbosacral region",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M47.85,Orthopedic Surgery ,"Other spondylosis, thoracolumbar region",1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,M79.63,Orthopedic Surgery ,"Pain in limb, forearm",1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,M79.64,Orthopedic Surgery ,"Pain in limb, hand",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M79.66,Orthopedic Surgery ,"Pain in limb, lower leg",0,1,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,M72.2,Orthopedic Surgery ,Plantar fascial fibromatosis,1,0,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,M13.0,Orthopedic Surgery ,"Polyarthritis, unspecified",0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,Q69,Orthopedic Surgery ,Polydactyly,1,0,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,S83.54,Orthopedic Surgery ,Rupture of posterior cruciate ligament,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M67.0,Orthopedic Surgery ,Short Achilles tendon (acquired),0,1,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,M43.06,Orthopedic Surgery ,"Spondylolysis, lumbar region",1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,S83.4,Orthopedic Surgery ,Sprain and strain involving (fibular)(tibial) collateral ligament of knee,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,S53.40,Orthopedic Surgery ,"Sprain and strain of elbow, part unspecified",1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,S63.62,Orthopedic Surgery ,"Sprain and strain of interphalangeal (joint), hand",1,0,0,1,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,S63.7,Orthopedic Surgery ,Sprain and strain of other and unspecified parts of hand,1,0,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,S43.4,Orthopedic Surgery ,Sprain and strain of shoulder joint,1,0,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,S63.5,Orthopedic Surgery ,Sprain and strain of wrist,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,S80.84,Orthopedic Surgery ,Superficial foreign body (splinter) of lower leg,1,0,0,0,0,0,0%,0%,0%,100%,0%,0%
+ICD10.V11.,S68.0,Orthopedic Surgery ,Traumatic amputation of thumb (complete)(partial),1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,M12.57,Orthopedic Surgery ,"Traumatic arthropathy, ankle and foot",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M46.42,Orthopedic Surgery ,"Unspecified discitis, cervical region",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M46.92,Orthopedic Surgery ,"Unspecified inflammatory spondylopathy, cervical region",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,M60.9,Orthopedic Surgery ,Unspecified myositis,1,0,1,0,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,M47.92,Orthopedic Surgery ,"Unspecified spondylosis, cervical region",1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,E55,Orthopedic Surgery ,Vitamin D deficiency,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,F32.1,Psychiatry ,Moderate depressive episode,32,46,47,30,154,77,0%,0%,4%,54%,41%,1%
+ICD10.V11.,F20,Psychiatry ,Schizophrenia,24,46,49,21,140,70,0%,0%,17%,69%,13%,1%
+ICD10.V11.,F32.11,Psychiatry ,"Moderate depressive episode, arising in the postnatal period",17,9,15,11,52,26,0%,0%,12%,62%,27%,0%
+ICD10.V11.,F32.2,Psychiatry ,Severe depressive episode without psychotic symptoms,7,13,8,12,40,20,0%,0%,10%,55%,30%,5%
+ICD10.V11.,F31,Psychiatry ,Bipolar affective disorder,3,11,6,8,28,14,0%,7%,0%,43%,50%,0%
+ICD10.V11.,F40.0,Psychiatry ,Agoraphobia,8,5,9,4,26,13,0%,0%,15%,85%,0%,0%
+ICD10.V11.,F32.10,Psychiatry ,"Moderate depressive episode, not specified as arising in the postnatal period",8,4,8,4,24,12,0%,0%,0%,58%,42%,0%
+ICD10.V11.,F23,Psychiatry ,Acute and transient psychotic disorders,2,9,10,1,22,11,0%,0%,27%,36%,27%,9%
+ICD10.V11.,F42,Psychiatry ,Obsessive-compulsive disorder,3,7,3,7,20,10,0%,0%,30%,40%,30%,0%
+ICD10.V11.,F41.1,Psychiatry ,Generalised anxiety disorder,7,1,3,5,16,8,13%,0%,13%,63%,13%,0%
+ICD10.V11.,U82.3,Psychiatry ,Hypertension,3,3,4,2,12,6,0%,0%,0%,0%,67%,33%
+ICD10.V11.,F70,Psychiatry ,Mild mental retardation,3,3,5,1,12,6,0%,0%,17%,83%,0%,0%
+ICD10.V11.,F41.2,Psychiatry ,Mixed anxiety and depressive disorder,3,3,4,2,12,6,0%,0%,17%,67%,0%,17%
+ICD10.V11.,F40.8,Psychiatry ,Other phobic anxiety disorders,2,4,3,3,12,6,0%,0%,17%,50%,33%,0%
+ICD10.V11.,F60.3,Psychiatry ,Emotionally unstable personality disorder,1,4,4,1,10,5,0%,0%,40%,60%,0%,0%
+ICD10.V11.,F40.9,Psychiatry ,"Phobic anxiety disorder, unspecified",2,3,3,2,10,5,0%,0%,0%,60%,20%,20%
+ICD10.V11.,F40,Psychiatry ,Phobic anxiety disorders,3,2,3,2,10,5,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F25,Psychiatry ,Schizoaffective disorders,1,4,2,3,10,5,0%,0%,0%,20%,80%,0%
+ICD10.V11.,G40,Psychiatry ,Epilepsy,4,0,3,1,8,4,0%,25%,0%,25%,50%,0%
+ICD10.V11.,K58,Psychiatry ,Irritable bowel syndrome,4,0,2,2,8,4,25%,0%,25%,25%,25%,0%
+ICD10.V11.,F25.0,Psychiatry ,"Schizoaffective disorder, manic type",0,4,3,1,8,4,0%,0%,0%,0%,100%,0%
+ICD10.V11.,E11,Psychiatry ,Type 2 diabetes mellitus,2,2,0,4,8,4,0%,0%,0%,0%,50%,50%
+ICD10.V11.,F40.1,Psychiatry ,Social phobias,1,2,3,0,6,3,0%,0%,33%,33%,33%,0%
+ICD10.V11.,F23.0,Psychiatry ,Acute polymorphic psychotic disorder without symptoms of schizophrenia,1,1,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F23.2,Psychiatry ,Acute schizophrenia-like psychotic disorder,1,1,2,0,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F31.0,Psychiatry ,"Bipolar affective disorder, current episode hypomanic",1,1,1,1,4,2,0%,0%,0%,50%,50%,0%
+ICD10.V11.,F31.1,Psychiatry ,"Bipolar affective disorder, current episode manic without psychotic symptoms",2,0,0,2,4,2,0%,50%,0%,50%,0%,0%
+ICD10.V11.,F22.0,Psychiatry ,Delusional disorder,2,0,2,0,4,2,0%,0%,0%,50%,50%,0%
+ICD10.V11.,F32,Psychiatry ,Depressive episode,1,1,1,1,4,2,0%,0%,0%,50%,50%,0%
+ICD10.V11.,F32.01,Psychiatry ,"Mild depressive episode, arising in the postnatal period",2,0,1,1,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F71,Psychiatry ,Moderate mental retardation,0,2,2,0,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,R10.4,Psychiatry ,Other and unspecified abdominal pain,0,2,2,0,4,2,0%,0%,0%,0%,100%,0%
+ICD10.V11.,F41.0,Psychiatry ,Panic disorder [episodic paroxysmal anxiety],1,1,2,0,4,2,0%,0%,50%,50%,0%,0%
+ICD10.V11.,F42.0,Psychiatry ,Predominantly obsessional thoughts or ruminations,0,2,1,1,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F03,Psychiatry ,Unspecified dementia,0,2,1,1,4,2,0%,0%,50%,0%,0%,50%
+ICD10.V11.,F01,Psychiatry ,Vascular dementia,2,0,1,1,4,2,0%,0%,0%,0%,0%,100%
+ICD10.V11.,F23.1,Psychiatry ,Acute polymorphic psychotic disorder with symptoms of schizophrenia,0,1,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F40.01,Psychiatry ,Agoraphobia with panic disorder,1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,D64.9,Psychiatry ,"Anaemia, unspecified",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F31.6,Psychiatry ,"Bipolar affective disorder, current episode mixed",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F20.2,Psychiatry ,Catatonic schizophrenia,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,G44.0,Psychiatry ,Cluster headache syndrome,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,F60.31,Psychiatry ,"Emotionally unstable personality disorder, borderline type",1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I10,Psychiatry ,Essential (primary) hypertension,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,F45.2,Psychiatry ,Hypochondriacal disorder,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E03.9,Psychiatry ,"Hypothyroidism, unspecified",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F30.2,Psychiatry ,Mania with psychotic symptoms,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,F30.1,Psychiatry ,Mania without psychotic symptoms,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F32.0,Psychiatry ,Mild depressive episode,0,1,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F70.0,Psychiatry ,"Mild mental retardation with the statement of no, or minimal, impairment of behaviour",0,1,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,F01.1,Psychiatry ,Multi-infarct dementia,1,0,0,1,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,F06.5,Psychiatry ,Organic dissociative disorder,1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,F06.3,Psychiatry ,Organic mood [affective] disorders,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,F23.8,Psychiatry ,Other acute and transient psychotic disorders,1,0,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,G40.41,Psychiatry ,"Other generalised epilepsy and epileptic syndromes, with intractable epilepsy",1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,F20.0,Psychiatry ,Paranoid schizophrenia,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,G20,Psychiatry ,Parkinson's disease,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F43.1,Psychiatry ,Post traumatic stress disorder,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F43,Psychiatry ,"Reaction to severe stress, and adjustment disorders",1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F33.3,Psychiatry ,"Recurrent depressive disorder, current episode severe with psychotic symptoms",1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F21,Psychiatry ,Schizotypal disorder,0,1,1,0,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,F72,Psychiatry ,Severe mental retardation,1,0,0,1,2,1,0%,100%,0%,0%,0%,0%
+ICD10.V11.,F40.2,Psychiatry ,Specific (isolated) phobias,0,1,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,F20.3,Psychiatry ,Undifferentiated schizophrenia,1,0,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,N39.0,Urology,"Urinary tract infection, site not specified",19,23,14,28,84,42,2%,10%,29%,36%,17%,7%
+ICD10.V11.,R10.4,Urology,Other and unspecified abdominal pain,16,7,6,15,42,21,4%,9%,17%,48%,13%,9%
+ICD10.V11.,N23,Urology,Unspecified renal colic,19,4,3,18,42,21,0%,9%,17%,43%,30%,0%
+ICD10.V11.,N40,Urology,Hyperplasia of prostate,14,7,21,0,42,21,0%,0%,0%,0%,48%,52%
+ICD10.V11.,N47,Urology,"Redundant prepuce, phimosis and paraphimosis",11,7,16,0,32,16,100%,0%,0%,0%,0%,0%
+ICD10.V11.,N30.9,Urology,"Cystitis, unspecified",6,4,2,8,20,10,0%,30%,0%,20%,30%,20%
+ICD10.V11.,N41,Urology,Inflammatory diseases of prostate,6,3,9,0,18,9,0%,0%,0%,11%,44%,44%
+ICD10.V11.,R10,Urology,Abdominal and pelvic pain,6,1,2,4,12,6,0%,14%,0%,43%,43%,0%
+ICD10.V11.,D29.1,Urology,Benign neoplasm of prostate,4,2,6,0,12,6,0%,0%,0%,0%,67%,33%
+ICD10.V11.,N46,Urology,Male infertility,4,2,6,0,12,6,0%,0%,0%,67%,17%,17%
+ICD10.V11.,U82.3,Urology,Hypertension,3,2,4,1,10,5,0%,0%,0%,0%,60%,40%
+ICD10.V11.,N45,Urology,Orchitis and epididymitis,3,1,2,0,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E78.5,Urology,"Hyperlipidaemia, unspecified",1,2,3,0,6,3,0%,0%,0%,0%,67%,33%
+ICD10.V11.,N41.9,Urology,"Inflammatory disease of prostate, unspecified",1,2,3,0,6,3,0%,0%,0%,33%,33%,33%
+ICD10.V11.,N30.8,Urology,Other cystitis,2,1,0,3,6,3,33%,0%,0%,33%,33%,0%
+ICD10.V11.,E11,Urology,Type 2 diabetes mellitus,1,2,3,0,6,3,0%,0%,0%,0%,100%,0%
+ICD10.V11.,R32,Urology,Unspecified urinary incontinence,2,1,1,2,6,3,0%,0%,0%,0%,100%,0%
+ICD10.V11.,N20.0,Urology,Calculus of kidney,1,1,1,1,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N30,Urology,Cystitis,2,0,0,2,4,2,0%,0%,0%,50%,0%,50%
+ICD10.V11.,R30.0,Urology,Dysuria,0,2,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,I10,Urology,Essential (primary) hypertension,1,1,1,1,4,2,0%,0%,0%,0%,50%,50%
+ICD10.V11.,K29.7,Urology,"Gastritis, unspecified",0,2,0,2,4,2,0%,0%,0%,100%,0%,0%
+ICD10.V11.,K58,Urology,Irritable bowel syndrome,2,0,2,0,4,2,0%,0%,0%,0%,50%,50%
+ICD10.V11.,Q55.2,Urology,Other and unspecified congenital malformations of testis and scrotum,1,1,2,0,4,2,100%,0%,0%,0%,0%,0%
+ICD10.V11.,N13.3,Urology,Other and unspecified hydronephrosis,2,0,2,0,4,2,50%,50%,0%,0%,0%,0%
+ICD10.V11.,N48,Urology,Other disorders of penis,1,1,2,0,4,2,50%,0%,0%,50%,0%,0%
+ICD10.V11.,N39,Urology,Other disorders of urinary system,1,1,2,0,4,2,0%,50%,0%,50%,0%,0%
+ICD10.V11.,N34.2,Urology,Other urethritis,2,0,2,0,4,2,0%,0%,100%,0%,0%,0%
+ICD10.V11.,E55.9,Urology,"Vitamin D deficiency, unspecified",1,1,0,2,4,2,0%,100%,0%,0%,0%,0%
+ICD10.V11.,J45.9,Urology,"Asthma, unspecified",0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,N20,Urology,Calculus of kidney and ureter,1,0,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,N41.1,Urology,Chronic prostatitis,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,Q44.6,Urology,Cystic disease of liver,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N43.3,Urology,"Hydrocele, unspecified",1,0,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,N13.2,Urology,Hydronephrosis with renal and ureteral calculous obstruction,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,N13.0,Urology,Hydronephrosis with ureteropelvic junction obstruction,1,0,0,1,2,1,0%,0%,100%,0%,0%,0%
+ICD10.V11.,E79.0,Urology,Hyperuricaemia without signs of inflammatory arthritis and tophaceous disease,0,1,1,0,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,Q54,Urology,Hypospadias,1,0,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,E03.9,Urology,"Hypothyroidism, unspecified",0,1,0,1,2,1,0%,0%,0%,0%,100%,0%
+ICD10.V11.,K75.9,Urology,"Inflammatory liver disease, unspecified",0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,E61.2,Urology,Magnesium deficiency,0,1,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,K52.9,Urology,"Noninfective gastroenteritis and colitis, unspecified",1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,G44,Urology,Other headache syndromes,1,0,1,0,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,L08,Urology,Other local infections of skin and subcutaneous tissue,1,0,1,0,2,1,100%,0%,0%,0%,0%,0%
+ICD10.V11.,R35,Urology,Polyuria,1,0,0,1,2,1,0%,0%,0%,100%,0%,0%
+ICD10.V11.,N41.3,Urology,Prostatocystitis,1,0,1,0,2,1,0%,0%,0%,0%,0%,100%
+ICD10.V11.,M48.0,Neurolgy,Spinal Stenosis,,,,,,,,,,,,
+ICD10.V11.,M48.02,Neurolgy,Spinal Stenosis Cervical Region,,,,,,,,,,,,
+ICD10.V11.,M48.04,Neurolgy,Spinal Stenosis Thoracic Region,,,,,,,,,,,,
+ICD10.V11.,M48.07,Neurolgy,Spinal Stenosis Lumbosacral Region,,,,,,,,,,,,
+ICD10.V11.,M48.07,Neurolgy,Spinal Stenosis Lumbosacral Region,,,,,,,,,,,,
+ICD10.V11.,G30.9,Neurolgy,Alzheimer S Disease Unspecified,,,,,,,,,,,,
+ICD10.V11.,U79.1 ,Neurolgy,Dementia Including In Alzheimer S Disease,,,,,,,,,,,,
+ICD10.V11.,U80.2,Neurolgy,Multiple Sclerosis,,,,,,,,,,,,
+ICD10.V11.,R27.0,Neurolgy,Ataxia Unspecified,,,,,,,,,,,,
+ICD10.V11.,G51.0,Neurolgy,Bell's Palsy,,,,,,,,,,,,
+ICD10.V11.,G93.0,Neurolgy,Cerebral cysts,,,,,,,,,,,,
+ICD10.V11.,G93.6,Neurolgy,Cerebral edema,,,,,,,,,,,,
+ICD10.V11.,I67.1,Neurolgy,Cerebral Aneurysm non-ruptured,,,,,,,,,,,,
+ICD10.V11.,S06.1,Neurolgy,Traumatic Cerebral edema,,,,,,,,,,,,
+ICD10.V11.,U80.3,Neurolgy,Epilepsy,,,,,,,,,,,,
+ICD10.V11.,G61.0,Neurolgy,Guillain Barre Syndrome,,,,,,,,,,,,
+ICD10.V11.,S09.9,Neurolgy,unspecified injury of head,,,,,,,,,,,,
+ICD10.V11.,M51.9,Neurolgy,intervertebral disc disorder unspecified,,,,,,,,,,,,
+ICD10.V11.,M50.8,Neurolgy,other cervical disc disorder,,,,,,,,,,,,
+ICD10.V11.,A87.9,Neurolgy,Viral Meningitis unspecified,,,,,,,,,,,,
+ICD10.V11.,G71.0,Neurolgy,Muscular dystrophy,,,,,,,,,,,,
+ICD10.V11.,U80.1,Neurolgy,Parkinson's disease,,,,,,,,,,,,
+ICD10.V11.,I64,Neurolgy,Stroke not specified as haemorrhage or infarction,,,,,,,,,,,,
+ICD10.V11.,G43.0,Neurolgy,Migraine without aura - common migraine,,,,,,,,,,,,
+ICD10.V11.,G43.1,Neurolgy,Migraine with aura - classical migraine,,,,,,,,,,,,
+ICD10.V11.,G43.8,Neurolgy,other Migraine,,,,,,,,,,,,
+ICD10.V11.,A86,Neurolgy,unspecified viral encephalitis,,,,,,,,,,,,
+ICD10.V11.,G04.9,Neurolgy,"Encephalitis, myelitis and encephalomyelitis unspecified",,,,,,,,,,,,
+ICD10.V11.,G70.0,Neurolgy,Myathenia Gravis,,,,,,,,,,,,
+ICD10.V11.,G63.4,Neurolgy,Polyneuropathy in nutritional deficiency ,,,,,,,,,,,,
+ICD10.V11.,,Cardiovascular Medicine,,,,,,,,,,,,,
+ICD10.V11.,U82.1,Cardiovascular Medicine,ischemic heart disease ,,,,,,,,,,,,
+ICD10.V11.,I50.0,Cardiovascular Medicine,congestive heart failure,,,,,,,,,,,,
+ICD10.V11.,U82.2,Cardiovascular Medicine,chronic heart failure,,,,,,,,,,,,
+ICD10.V11.,I50.9,Cardiovascular Medicine,Heart failure unspecified,,,,,,,,,,,,
+ICD10.V11.,I42.0,Cardiovascular Medicine,dilated cardiomyopathy,,,,,,,,,,,,
+ICD10.V11.,I25.5,Cardiovascular Medicine,ischemic cardiomyopathy,,,,,,,,,,,,
+ICD10.V11.,I42.1,Cardiovascular Medicine,Obstructive hypertrophic cardiomyopathy,,,,,,,,,,,,
+ICD10.V11.,O90.3,Cardiovascular Medicine,Cardiomyopathy in the puerperium,,,,,,,,,,,,
+ICD10.V11.,I42.5,Cardiovascular Medicine,other restrictive cardiomyopathy,,,,,,,,,,,,
+ICD10.V11.,I81,Cardiovascular Medicine,portal vein thrombosis,,,,,,,,,,,,
+ICD10.V11.,I74,Cardiovascular Medicine,Arterial embolism and thrombosis,,,,,,,,,,,,
+ICD10.V11.,,Hematology,,,,,,,,,,,,,
+ICD10.V11.,D57.0,Hematology,Sickle cell anemia with crisis,,,,,,,,,,,,
+ICD10.V11.,D57.1,Hematology,Sickle cell anemia without crisis,,,,,,,,,,,,
+ICD10.V11.,D75.0,Hematology,Familial Erythrocytosis,,,,,,,,,,,,
+ICD10.V11.,A38,Hematology,Scarlet Fever,,,,,,,,,,,,
+ICD10.V11.,D58.2,Hematology,other haemoglobinopathies,,,,,,,,,,,,
+ICD10.V11.,D74.8,Hematology,other methaemoglobinaemias,,,,,,,,,,,,
+ICD10.V11.,R82.3,Hematology,Haemoglobinuria,,,,,,,,,,,,
+ICD10.V11.,D50.0,Hematology,iron deficiency anaemia secondary to blood loss (chronic),,,,,,,,,,,,
+ICD10.V11.,Y44.9,Hematology,Natural blood and blood products causing adverse effects in therapeutic use,,,,,,,,,,,,
+ICD10.V11.,Y65.0,Hematology,Mismatched Blood used in transfusion,,,,,,,,,,,,
+ICD10.V11.,O88.2,Hematology,obstetric Blood clot embolism,,,,,,,,,,,,
+ICD10.V11.,R71,Hematology,Abnormality of Red Blood Cells,,,,,,,,,,,,
+ICD10.V11.,R72,Hematology,"Abnormality of White Blood Cells, not elsewhere classified",,,,,,,,,,,,
+ICD10.V11.,R79.9,Hematology,Abnormal finding of blood chemistry unspecified,,,,,,,,,,,,
+ICD10.V11.,N21.0,Urology,Calculus in bladder,,,,,,,,,,,,
+ICD10.V11.,N21.1,Urology,Calculus in urethra,,,,,,,,,,,,
+ICD10.V11.,N21.8,Urology,other lower urinary tract calculus,,,,,,,,,,,,
+ICD10.V11.,Z51.1,Oncology,Pharmacotherapy session for neoplasm,,,,,,,,,,,,
+ICD10.V11.,E43,Dietitian and Nutrition,Unspecified Severe Protein-energy malnutrition,,,,,,,,,,,,
+ICD10.V11.,O25,Dietitian and Nutrition,Malnutrition in pregnancy,,,,,,,,,,,,
+ICD10.V11.,D53.9,Dietitian and Nutrition,Nutritional Anaemia unspecified,,,,,,,,,,,,
+ICD10.V11.,E41,Dietitian and Nutrition,Nutritional Marasmus,,,,,,,,,,,,
+ICD10.V11.,E63.9,Dietitian and Nutrition,Nutritional Deficiency unspecified,,,,,,,,,,,,
+ICD10.V11.,Q43.10,Pediatric Surgery,"hirschsprung's Disease, unspecified",,,,,,,,,,,,
+ICD10.V11.,Q83.1,Oncology Surgery,Accessory Breast,,,,,,,,,,,,
+ICD10.V11.,I81,Vascular Surgery,Portal Vein Thrombosis,,,,,,,,,,,,
+ICD10.V11.,I83.9,Vascular Surgery,Varicose Veins of Lower extremities without ulcer or inflamation,,,,,,,,,,,,
+ICD10.V11.,I83.2,Vascular Surgery,Varicose Veins of Lower extremities with both ulcer or inflamation,,,,,,,,,,,,
+ICD10.V11.,I82.9,Vascular Surgery,Embolism and Thrombosis of unspecified vein,,,,,,,,,,,,
+ICD10.V11.,O22.0,Vascular Surgery,Varicose Veins of Lower extremity in Pregnancy,,,,,,,,,,,,
+ICD10.V11.,O22.3,Vascular Surgery,Deep phlebothrombosis in Pregnancy,,,,,,,,,,,,
+ICD10.V11.,I80.0,Vascular Surgery,Phlebitis and thrombophlebitis of superficial vessels of lower extremities,,,,,,,,,,,,
+ICD10.V11.,L89.04,Vascular Surgery,Pressure injury Stage I Lower Back,,,,,,,,,,,,
+ICD10.V11.,L89.05,Vascular Surgery,Pressure injury Stage I Ischium,,,,,,,,,,,,
+ICD10.V11.,L89.14,Vascular Surgery,Pressure injury Stage II Lower Back,,,,,,,,,,,,
+ICD10.V11.,L89.15,Vascular Surgery,Pressure injury Stage II Ischium,,,,,,,,,,,,
+ICD10.V11.,L89.24,Vascular Surgery,Pressure injury Stage III Lower Back,,,,,,,,,,,,
+ICD10.V11.,L89.25,Vascular Surgery,Pressure injury Stage III Ischium,,,,,,,,,,,,
+ICD10.V11.,L89.34,Vascular Surgery,Pressure injury Stage IV Lower Back,,,,,,,,,,,,
+ICD10.V11.,L89.35,Vascular Surgery,Pressure injury Stage IV Ischium,,,,,,,,,,,,
+ICD10.V11.,L89.94,Vascular Surgery,Pressure injury Unspecified Stage Lower Back,,,,,,,,,,,,
+ICD10.V11.,L89.95,Vascular Surgery,Pressure injury Unspecified Stage Ischium,,,,,,,,,,,,
+ICD10.V11.,Z42.9,Plastic Surgery,Follow Up Care involving plastic surgery Un specified,,,,,,,,,,,,
+ICD10.V11.,Y83.4,Plastic Surgery,Other Reconstructive Surgery,,,,,,,,,,,,
+ICD10.V11.,Z08.0,Plastic Surgery,Follow up Examination after surgery for malignant neoplasm,,,,,,,,,,,,
+ICD10.V11.,Z09.0,Plastic Surgery,Follow up Examination after surgery for other conditions,,,,,,,,,,,,
+ICD10.V11.,Z41.1,Plastic Surgery,Other Plastic Surgery for unacceptable cosmetic appearance,,,,,,,,,,,,
+ICD10.V11.,Z42.1,Plastic Surgery,Follow up care involving plastic surgery of Breast,,,,,,,,,,,,
+ICD10.V11.,U78.1,Bariatric and Laparoscopic Surgery,Obesity,,,,,,,,,,,,
+ICD10.V11.,K56.3,GIT & Endoscopic Surgery,Gallstone ileus,,,,,,,,,,,,
+ICD10.V11.,E85.0,Allergy and Immunology,Non-neuropathic Heredofamilial amyloidosis,,,,,,,,,,,,
+ICD10.V11.,E85.1,Allergy and Immunology,Neuropathic Heredofamilial amyloidosis,,,,,,,,,,,,
+ICD10.V11.,A68.9,Allergy and Immunology,Relapsing Fever unspecified,,,,,,,,,,,,
+ICD10.V11.,A77.9,Allergy and Immunology,Spotted Fever unspecified,,,,,,,,,,,,
+ICD10.V11.,H90.0,Audiology,"Conductive hearing loss, bilateral",,,,,,,,,,,,
+ICD10.V11.,H90.1,Audiology,"Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side",,,,,,,,,,,,
+ICD10.V11.,H90.2,Audiology,"Conductive Hearing loss, unspecified",,,,,,,,,,,,
+ICD10.V11.,H90.5,Audiology,"Sensorineural hearing loss, unspecified",,,,,,,,,,,,
+ICD10.V11.,R07.1,Chest and Respiratory Medicine,Chest pain on breathing,,,,,,,,,,,,
+ICD10.V11.,O35.2,Family Medicine,Maternal care for (suspected) hereditary disease in fetus,,,,,,,,,,,,
+ICD10.V11.,E80.0,Family Medicine,Hereditary Erythropoietic porphyria,,,,,,,,,,,,
+ICD10.V11.,R54,Geriatric Medicine,Senility,,,,,,,,,,,,
+ICD10.V11.,U80.1,Geriatric Medicine,Parkinson's Disease,,,,,,,,,,,,
+ICD10.V11.,F02.3,Geriatric Medicine,Dementia in Parkinson's Disease,,,,,,,,,,,,
+ICD10.V11.,M62.40,Osteopathy Medicine,"Contracture of muscle, multiple sites",,,,,,,,,,,,
+ICD10.V11.,M62.41,Osteopathy Medicine,"Contracture of muscle, Shoulder region",,,,,,,,,,,,
+ICD10.V11.,M62.42,Osteopathy Medicine,"Contracture of muscle, Upper arm",,,,,,,,,,,,
+ICD10.V11.,M62.43,Osteopathy Medicine,"Contracture of muscle, Forearm",,,,,,,,,,,,
+ICD10.V11.,M62.44,Osteopathy Medicine,"Contracture of muscle, Hand",,,,,,,,,,,,
+ICD10.V11.,M62.45,Osteopathy Medicine,"Contracture of muscle, Pelvic Region and Thigh",,,,,,,,,,,,
+ICD10.V11.,M85.40,Osteopathy Medicine,"Solitary bone cyst, multiple sites",,,,,,,,,,,,
+ICD10.V11.,M90.70,Osteopathy Medicine,"Fracture of bone in neoplastic disease, multiple sites",,,,,,,,,,,,
+ICD10.V11.,O33.0,Osteopathy Medicine,Maternal care for disproportion due to deformity of maternal pelvic bones,,,,,,,,,,,,
+ICD10.V11.,M25.60,Osteopathy Medicine,"Stiffness of joint, Multiple sites",,,,,,,,,,,,
+ICD10.V11.,M25.50,Pain Management,Pain in a joint multiple sites ,,,,,,,,,,,,
+ICD10.V11.,M25.51,Pain Management,"Pain in a joint , shoulder Region",,,,,,,,,,,,
+ICD10.V11.,M25.60,Pain Management,"Stiffness of joint, Multiple sites",,,,,,,,,,,,
+ICD10.V11.,M62.40,Physiotherapy,"Contracture of muscle, multiple sites",,,,,,,,,,,,
+ICD10.V11.,M62.41,Physiotherapy,"Contracture of muscle, Shoulder region",,,,,,,,,,,,
+ICD10.V11.,M62.42,Physiotherapy,"Contracture of muscle, Upper arm",,,,,,,,,,,,
+ICD10.V11.,M62.43,Physiotherapy,"Contracture of muscle, Forearm",,,,,,,,,,,,
+ICD10.V11.,M62.44,Physiotherapy,"Contracture of muscle, Hand",,,,,,,,,,,,
+ICD10.V11.,M62.45,Physiotherapy,"Contracture of muscle, Pelvic Region and Thigh",,,,,,,,,,,,
+ICD10.V11.,M62.46,Physiotherapy,"Contracture of muscle, Lower Leg",,,,,,,,,,,,
+ICD10.V11.,M62.47,Physiotherapy,"Contracture of muscle, Ankle and Foot",,,,,,,,,,,,
+ICD10.V11.,M62.48,Physiotherapy,"Contracture of muscle, Shoulder region",,,,,,,,,,,,
+ICD10.V11.,M62.50,Physiotherapy,"Muscle wasting and atrophy, multiple sites",,,,,,,,,,,,
+ICD10.V11.,M62.60,Physiotherapy,"Muscle strain, multiple sites",,,,,,,,,,,,
+ICD10.V11.,M62.90,Physiotherapy,"Unspecified disorder of muscle, multiple sites",,,,,,,,,,,,
+ICD10.V11.,T92.5,Physiotherapy,Sequelae of injury of muscle and tendon of upper limb,,,,,,,,,,,,
+ICD10.V11.,T93.5,Physiotherapy,Sequelae of injury of muscle and tendon of Lower limb,,,,,,,,,,,,
+ICD10.V11.,M25.60,Physiotherapy,"Stiffness of joint, Multiple sites",,,,,,,,,,,,
+ICD10.V11.,S22.5,Physiotherapy,Flail Chest,,,,,,,,,,,,
+ICD10.V11.,S22.5,Radiology,Flail Chest,,,,,,,,,,,,
+ICD10.V11.,M95.4,Radiology,Acquired deformity of chest and Rib,,,,,,,,,,,,
+ICD10.V11.,R79.9,Laboratory,Abnormal finding of blood chemistry unspecified,,,,,,,,,,,,
+ICD10.V11.,Z01.3,General Medicine and Surgery,Examination of Blood Pressure,,,,,,,,,,,,
+ICD10.V11.,Z04.0,General Medicine and Surgery,Blood-alcohol and blood-drug test,,,,,,,,,,,,
+ICD10.V11.,S65.7,General Medicine and Surgery,injury of multiple blood vessels at wrist and hand level,,,,,,,,,,,,
+ICD10.V11.,R03.1,General Medicine and Surgery,nonspecific low blood-pressure reading,,,,,,,,,,,,
+ICD10.V11.,R79.9,General Medicine and Surgery,Abnormal finding of blood chemistry unspecified,,,,,,,,,,,,
+ICD10.V11.,R79.81,General Medicine and Surgery,Abnormal Blood Gas Level,,,,,,,,,,,,
+ICD10.V11.,Z54.0,General Medicine and Surgery,Convalescence Following Surgery ,,,,,,,,,,,,
+ICD10.V11.,O34.2,General Medicine and Surgery,Maternal Care due to uterine scar from previous surgery ,,,,,,,,,,,,
+ICD10.V11.,R49.8,Phoniatrics (Speech),Other and unspecified voice diturbances,,,,,,,,,,,,
+ICD10.V11.,Z50.5,Phoniatrics (Speech),Sppech therapy,,,,,,,,,,,,
+ICD10.V11.,F80.0,Phoniatrics (Speech),Specific Speech articulation Disorder,,,,,,,,,,,,
+ICD10.V11.,F80.9,Phoniatrics (Speech),Developmental disorder of speech and language unspecified,,,,,,,,,,,,
+ICD10.V11.,R47.8,Phoniatrics (Speech),other and unspecified speech disturbances,,,,,,,,,,,,
+ICD10.V11.,O88.2,Anesthesia Medicine,obstetric Blood clot embolism,,,,,,,,,,,,
+ICD10.V11.,,Epidemiology & Infectious Diseases,,,,,,,,,,,,,
+ICD10.V11.,A01.0,Epidemiology & Infectious Diseases,Typhoid Fever,,,,,,,,,,,,
+ICD10.V11.,A01.4,Epidemiology & Infectious Diseases,Paratyphoid Fever Unspecified,,,,,,,,,,,,
+ICD10.V11.,R50.0,Epidemiology & Infectious Diseases,Fever with Chills,,,,,,,,,,,,
+ICD10.V11.,R50.1,Epidemiology & Infectious Diseases,Persistent Fever,,,,,,,,,,,,
+ICD10.V11.,R50.2,Epidemiology & Infectious Diseases,Drug-induced Fever ,,,,,,,,,,,,
+ICD10.V11.,R50.9,Epidemiology & Infectious Diseases,Fever unspecified,,,,,,,,,,,,
